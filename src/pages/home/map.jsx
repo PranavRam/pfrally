@@ -1,7 +1,7 @@
 import {default as React, Component} from "react";
 import _ from 'lodash';
 import {GoogleMapLoader, GoogleMap, Marker, DirectionsRenderer} from "react-google-maps";
-import CrimeOverlay from './CrimeOverlay'
+import Places from './Places'
 /*
  * Add <script src="https://maps.googleapis.com/maps/api/js"></script> to your HTML to provide google.maps reference
  */
@@ -167,7 +167,7 @@ export default class Directions extends Component {
                 </Marker>
               );
             })}
-            <CrimeOverlay />
+            <Places />
           </GoogleMap>
         }
       />
