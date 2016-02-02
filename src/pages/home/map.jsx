@@ -54,16 +54,41 @@ export default class Directions extends Component {
         stopover: true,
       }
     ],
-    directions: [],
+    directions: {},
     boxes: [],
     fuelMarkers: []
   };
 
   componentDidMount () {
+    var self = this;
     var {origin, waypoints, destination } = this.state;
     let chunks = _.chunk(_.concat([origin], waypoints, [destination]), 10);
     var rboxer = new RouteBoxer();
     var distance = 20; // km
+    let directions = [];
+    let fuelMarkers = [];
+    let count = 0;
+
+    function done() {
+      let finalDirections;
+      if(directions.length > 0){
+        finalDirections = directions[0];
+      }
+      for(let i = 1; i < directions.length; i++) {
+        let newDirections = directions[i];
+        finalDirections.routes[0].legs = finalDirections.routes[0].legs.concat(newDirections.routes[0].legs);
+        finalDirections.routes[0].overview_path = finalDirections.routes[0].overview_path.concat(newDirections.routes[0].overview_path);
+
+        finalDirections.routes[0].bounds = finalDirections.routes[0].bounds.extend(newDirections.routes[0].bounds.getNorthEast());
+        finalDirections.routes[0].bounds = finalDirections.routes[0].bounds.extend(newDirections.routes[0].bounds.getSouthWest());
+      }
+      console.log(finalDirections, 'final');
+      self.setState({
+        directions: finalDirections || {},
+        fuelMarkers: fuelMarkers
+      });
+    }
+
     for(let i=0; i<chunks.length; i++) {
       let DirectionsService = new google.maps.DirectionsService();
       var currentOrigin = chunks[i][0];
@@ -94,11 +119,9 @@ export default class Directions extends Component {
         waypoints: currentWaypoints,
         travelMode: google.maps.TravelMode.DRIVING
       }, (result, status) => {
-
+        count++;
         if(status == google.maps.DirectionsStatus.OK) {
-          this.setState({
-            directions: _.concat([], this.state.directions, result)
-          });
+          directions = _.concat(directions, result);
           console.log(result);
           var path = result.routes[0].overview_path;
           var boxes = rboxer.box(path, distance);
@@ -120,12 +143,13 @@ export default class Directions extends Component {
             }
           }
           // console.log('markers', distanceSoFar/1000, markers);
-          this.setState({
-            fuelMarkers: this.state.fuelMarkers.concat(markers)
-          });
+          fuelMarkers = fuelMarkers.concat(markers)
         }
         else {
           console.error(`error fetching directions ${ result }`);
+        }
+        if(count === chunks.length) {
+          done();
         }
       });
     }
@@ -133,11 +157,12 @@ export default class Directions extends Component {
 
   render () {
     const {origin, directions, fuelMarkers} = this.state;
-
+    console.log('directions', directions);
     function shouldRenderDirections() {
-      return directions.map((direction, i) => {
-        return <DirectionsRenderer key={i} directions={direction} options={{routeIndex : i * 10}} />;
-      });
+      if(directions.routes){
+        return <DirectionsRenderer directions={directions} />;
+      }
+      return (<noscript />);
     }
     return (
       <GoogleMapLoader
@@ -153,7 +178,6 @@ export default class Directions extends Component {
           <GoogleMap 
             defaultZoom={3}
             defaultCenter={origin}>
-            {shouldRenderDirections()}
             {fuelMarkers.map((marker, index) => {
               const ref = `marker_${index}`;
               return (
@@ -168,6 +192,7 @@ export default class Directions extends Component {
               );
             })}
             <Places />
+            {shouldRenderDirections()}
           </GoogleMap>
         }
       />
