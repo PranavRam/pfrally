@@ -1,7 +1,10 @@
-.content {
-  margin-top: 20px;
+.list {
+  /*margin-top: 20px;*/
+  overflow-y: scroll;
 }
-
+.row {
+	height: 500px;
+}
 .welcomeText {
   font-size: 20px;
   color: #7F7F7F;

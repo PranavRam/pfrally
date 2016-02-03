@@ -1,7 +1,7 @@
 import {default as React, Component} from "react";
 import _ from 'lodash';
 import {GoogleMapLoader, GoogleMap, Marker, DirectionsRenderer} from "react-google-maps";
-import Places from './Places'
+import PlacesNearby from './PlacesNearby'
 /*
  * Add <script src="https://maps.googleapis.com/maps/api/js"></script> to your HTML to provide google.maps reference
  */
@@ -76,16 +76,29 @@ export default class Directions extends Component {
       }
       for(let i = 1; i < directions.length; i++) {
         let newDirections = directions[i];
-        finalDirections.routes[0].legs = finalDirections.routes[0].legs.concat(newDirections.routes[0].legs);
-        finalDirections.routes[0].overview_path = finalDirections.routes[0].overview_path.concat(newDirections.routes[0].overview_path);
+        finalDirections.routes[0].legs = newDirections.routes[0].legs.concat(finalDirections.routes[0].legs);
+        finalDirections.routes[0].overview_path = newDirections.routes[0].overview_path.concat(finalDirections.routes[0].overview_path);
 
-        finalDirections.routes[0].bounds = finalDirections.routes[0].bounds.extend(newDirections.routes[0].bounds.getNorthEast());
-        finalDirections.routes[0].bounds = finalDirections.routes[0].bounds.extend(newDirections.routes[0].bounds.getSouthWest());
+        finalDirections.routes[0].bounds = newDirections.routes[0].bounds.extend(finalDirections.routes[0].bounds.getNorthEast());
+        finalDirections.routes[0].bounds = newDirections.routes[0].bounds.extend(finalDirections.routes[0].bounds.getSouthWest());
       }
       console.log(finalDirections, 'final');
+      var path = finalDirections.routes[0].overview_path;
+      let markers = [];
+      var distanceSoFar = 0;
+      for (let i = 1; i < path.length; i++) {
+        let dist = google.maps.geometry.spherical.computeDistanceBetween(path[i-1], path[i]);
+        if((distanceSoFar + dist) / 1000 < 350) {
+          distanceSoFar += dist;
+        }
+        else {
+          markers.push(path[i]);
+          distanceSoFar = 0;
+        }
+      }
       self.setState({
         directions: finalDirections || {},
-        fuelMarkers: fuelMarkers
+        fuelMarkers: markers
       });
     }
 
@@ -130,20 +143,9 @@ export default class Directions extends Component {
             var bounds = boxes[i];
             // console.log(bounds, boxes);
           }
-          let markers = [];
-          var distanceSoFar = 0;
-          for (let i = 1; i < path.length; i++) {
-            let dist = google.maps.geometry.spherical.computeDistanceBetween(path[i-1], path[i]);
-            if((distanceSoFar + dist) / 1000 < 350) {
-              distanceSoFar += dist;
-            }
-            else {
-              markers.push(path[i]);
-              distanceSoFar = 0;
-            }
-          }
+          
           // console.log('markers', distanceSoFar/1000, markers);
-          fuelMarkers = fuelMarkers.concat(markers)
+          // fuelMarkers = markers.concat(fuelMarkers)
         }
         else {
           console.error(`error fetching directions ${ result }`);
@@ -157,13 +159,19 @@ export default class Directions extends Component {
 
   render () {
     const {origin, directions, fuelMarkers} = this.state;
-    console.log('directions', directions);
+    console.log('directions', directions, fuelMarkers.map((fuel) => {
+      return {
+        lat: fuel.lat(), lng: fuel.lng() 
+      }
+    }));
     function shouldRenderDirections() {
       if(directions.routes){
         return <DirectionsRenderer directions={directions} />;
       }
       return (<noscript />);
     }
+
+    let fuelPositions = fuelMarkers.length ? <PlacesNearby location={fuelMarkers[0]} types={['gas_station']} radius={50000}/> : <noscript />;
     return (
       <GoogleMapLoader
         containerElement={
@@ -187,11 +195,11 @@ export default class Directions extends Component {
                         path: google.maps.SymbolPath.CIRCLE,
                         scale: 4
                       }}
-                  title="Fuel Marker">
+                  title={ref}>
                 </Marker>
               );
             })}
-            <Places />
+            {fuelPositions}
             {shouldRenderDirections()}
           </GoogleMap>
         }

@@ -1,15 +1,20 @@
 import React, { Component } from 'react';
 
-class Places extends Component {
+class PlacesNearby extends Component {
 	componentDidMount() {
 		let map = this.props.mapHolderRef.getMap();
+		let {radius, types, location} = this.props;
 		var pyrmont = {lat: -33.924883, lng: 18.422939};
-		// var pyrmont = {lat: -33.867, lng: 151.195};
+		var loc = {
+			lat: location.lat(),
+			lng: location.lng()
+		}
+		console.log(loc, 'location', types, radius);
 		var service = new google.maps.places.PlacesService(map);
 		  service.nearbySearch({
-		    location: pyrmont,
-		    radius: 1500,
-		    types: ['gas_station']
+		    location: loc || pyrmont,
+		    radius: radius || 500,
+		    types: types || []
 		  }, callback);
 		function callback(results, status) {
 			console.log('places', results, status);
@@ -27,4 +32,4 @@ class Places extends Component {
 	}
 }
 
-export default Places;
+export default PlacesNearby;

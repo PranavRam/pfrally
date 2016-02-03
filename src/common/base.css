@@ -6,7 +6,7 @@ body {
   margin: 0;
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
   font-weight: 300;
-  background-color: #f1f1f1;
+  background-color: #fff;
 }
 
 h1 {
@@ -18,12 +18,11 @@ h1 {
   width: 100%;
 
   @media (min-width: 960px) {
-    width: 960px;
     margin: 0 auto;
   }
 
   :global(#navigation) {
-    padding: 10px 15px;
+    /*padding: 10px 15px;*/
     background-color: #F9E957;
 
     ul {
