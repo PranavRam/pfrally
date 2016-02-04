@@ -11,7 +11,7 @@ import ToolbarGroup from 'material-ui/lib/toolbar/toolbar-group';
 import ToolbarSeparator from 'material-ui/lib/toolbar/toolbar-separator';
 import ToolbarTitle from 'material-ui/lib/toolbar/toolbar-title';
 
-const ToolbarExamplesSimple = () => (
+const ToolbarExamplesSimple = (handler) => (
   <Toolbar>
     <ToolbarGroup firstChild={true} float="left">
       <DropDownMenu value={3}>
@@ -38,7 +38,7 @@ const ToolbarExamplesSimple = () => (
         <MenuItem primaryText="More Info" />
       </IconMenu>
       <ToolbarSeparator />
-      <RaisedButton label="Create Broadcast" primary={true} />
+      <RaisedButton label="Create Broadcast" onClick={handler}primary={true} />
     </ToolbarGroup>
   </Toolbar>
 );

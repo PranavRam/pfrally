@@ -27,7 +27,22 @@ injectTapEventPlugin();
 // ID of the DOM element to mount app on
 const DOM_APP_EL_ID = "app";
 
+import app from 'ampersand-app';
+import MapState from './states/MapState';
+import Locations from './collections/Locations';
+import waypoints from './data/waypoints';
+// Here we could certainly *chose* to attach it to
+// window for better debugging in the browser 
+// but it's no longer necessary for accessing the 
+// app instance from other modules.
+app.extend({
+    init: function () {
+        this.mapState = new MapState({showCrime: true});
+        this.mapLocations = new Locations(waypoints);
+    }
+});
 
+app.init();
 
 // Render the router
 ReactDOM.render((

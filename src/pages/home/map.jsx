@@ -2,64 +2,38 @@ import {default as React, Component} from "react";
 import _ from 'lodash';
 import {GoogleMapLoader, GoogleMap, Marker, DirectionsRenderer} from "react-google-maps";
 import PlacesNearby from './PlacesNearby'
+import ampConnector from 'ampersand-react-connector'
 /*
  * Add <script src="https://maps.googleapis.com/maps/api/js"></script> to your HTML to provide google.maps reference
  */
-export default class Directions extends Component {
+class Directions extends Component {
 
   state = {
-    origin: new google.maps.LatLng(-33.924883, 18.422939),
-    destination: new google.maps.LatLng(-23.886644, 35.389152),
-    waypoints: [{
-        location: new google.maps.LatLng(-27.714356, 17.578677),
-        stopover: true,
-      }, {
-        location: new google.maps.LatLng(-27.524209, 17.814492),
-        stopover: true,
-      }, {
-        location: new google.maps.LatLng(-24.633021, 17.966635),
-        stopover: true,
-      }, {
-        location: new google.maps.LatLng(-22.553888, 17.093652),
-        stopover: true,
-      }, {
-        location: new google.maps.LatLng(-22.550780, 17.090306),
-        stopover: true,
-      }, {
-        location: new google.maps.LatLng(-19.555928, 15.876853),
-        stopover: true,
-      }, {
-        location: new google.maps.LatLng(-18.801727, 17.045227),
-        stopover: true,
-      }, {
-        location: new google.maps.LatLng(-17.912984, 19.764574),
-        stopover: true,
-      }, {
-        location: new google.maps.LatLng(-17.887535, 25.844136),
-        stopover: true,
-      }, {
-        location: new google.maps.LatLng(-15.374094, 28.317047),
-        stopover: true,
-      }, {
-        location: new google.maps.LatLng(-13.661040, 32.657911),
-        stopover: true,
-      }, {
-        location: new google.maps.LatLng(-13.780398, 34.458532),
-        stopover: true,
-      }, {
-        location: new google.maps.LatLng(-14.055898, 34.885345),
-        stopover: true,
-      }, {
-        location: new google.maps.LatLng(-22.007391, 35.322869),
-        stopover: true,
-      }
-    ],
+    origin: null,
+    destination: null,
+    waypoints: [],
     directions: {},
     boxes: [],
     fuelMarkers: []
   };
-
-  componentDidMount () {
+  componentWillMount() {
+    let locations = this.props.mapLocations.toJSON();
+    this.setState({
+      origin: locations[0].location,
+      destination: locations[locations.length - 1].location,
+      waypoints: locations.slice(1, locations.length - 1)
+    });
+  }
+  componentWillReceiveProps(nextProps) {
+    let locations = nextProps.mapLocations.toJSON();
+    this.setState({
+      origin: locations[0].location,
+      destination: locations[locations.length - 1].location,
+      waypoints: locations.slice(1, locations.length - 1)
+    });
+  }
+  prepareData() {
+    console.log(this.state.waypoints, this.props.mapLocations);
     var self = this;
     var {origin, waypoints, destination } = this.state;
     let chunks = _.chunk(_.concat([origin], waypoints, [destination]), 10);
@@ -76,11 +50,11 @@ export default class Directions extends Component {
       }
       for(let i = 1; i < directions.length; i++) {
         let newDirections = directions[i];
-        finalDirections.routes[0].legs = newDirections.routes[0].legs.concat(finalDirections.routes[0].legs);
-        finalDirections.routes[0].overview_path = newDirections.routes[0].overview_path.concat(finalDirections.routes[0].overview_path);
+        finalDirections.routes[0].legs = finalDirections.routes[0].legs.concat(newDirections.routes[0].legs);
+        finalDirections.routes[0].overview_path = finalDirections.routes[0].overview_path.concat(newDirections.routes[0].overview_path);
 
-        finalDirections.routes[0].bounds = newDirections.routes[0].bounds.extend(finalDirections.routes[0].bounds.getNorthEast());
-        finalDirections.routes[0].bounds = newDirections.routes[0].bounds.extend(finalDirections.routes[0].bounds.getSouthWest());
+        finalDirections.routes[0].bounds = finalDirections.routes[0].bounds.extend(newDirections.routes[0].bounds.getNorthEast());
+        finalDirections.routes[0].bounds = finalDirections.routes[0].bounds.extend(newDirections.routes[0].bounds.getSouthWest());
       }
       console.log(finalDirections, 'final');
       var path = finalDirections.routes[0].overview_path;
@@ -155,17 +129,21 @@ export default class Directions extends Component {
         }
       });
     }
+  }
+  componentDidMount () {
+    this.prepareData();
   };
 
   render () {
     const {origin, directions, fuelMarkers} = this.state;
-    console.log('directions', directions, fuelMarkers.map((fuel) => {
-      return {
-        lat: fuel.lat(), lng: fuel.lng() 
-      }
-    }));
+    console.log('origin', origin);
+    // console.log('directions', directions, fuelMarkers.map((fuel) => {
+    //   return {
+    //     lat: fuel.lat(), lng: fuel.lng() 
+    //   }
+    // }));
     function shouldRenderDirections() {
-      if(directions.routes){
+      if(directions.routes && this.props.mapState.showCrime){
         return <DirectionsRenderer directions={directions} />;
       }
       return (<noscript />);
@@ -200,10 +178,12 @@ export default class Directions extends Component {
               );
             })}
             {fuelPositions}
-            {shouldRenderDirections()}
+            {shouldRenderDirections.call(this)}
           </GoogleMap>
         }
       />
     );
   };
 }
+
+export default ampConnector(Directions);
