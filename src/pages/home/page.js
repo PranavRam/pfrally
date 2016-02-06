@@ -24,9 +24,14 @@ export default class HomePage extends React.Component {
     return (
       <div className={styles.content}>
         <AppBar
-            title="Put Foot Rally 2016 - Team Pooples"
-            iconClassNameRight="muidocs-icon-navigation-expand-more"
-          />
+            showMenuIconButton={false}
+            title="Put Foot Rally 2016"
+          >
+          <span style={{display: 'flex', alignItems: 'center', color: 'white'}}>
+            Made with<img style={{height: '25', margin: '5'}}src="http://emojipedia-us.s3.amazonaws.com/cache/de/ca/decadd7edb6b1014ca0cb7a1afcb8ea3.png" />
+            - Team Pooples
+          </span>
+        </AppBar>
           <Row className={styles.row}>
              <Col sm={9} ><Map mapState={app.mapState} mapLocations={app.mapLocations}/></Col>
              <Col sm={3} className={styles.list}>{PlaceDetail()}</Col>

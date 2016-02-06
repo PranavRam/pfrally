@@ -230,7 +230,6 @@ class Directions extends Component {
               );
             })}
             {fuelPositions}
-            {routeBoxer}
             {shouldRenderDirections.call(this)}
             <SearchBox
                       bounds={this.state.bounds}

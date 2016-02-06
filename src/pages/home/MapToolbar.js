@@ -26,41 +26,48 @@ const styles = {
 };
 const ToolbarExamplesSimple = (handler) => (
   <Toolbar>
-    <ToolbarGroup> 
-      <DropDownMenu value={1}>
-        <MenuItem value={1} primaryText="Show All" />
-        <MenuItem value={2} primaryText="Gas Stations" />
-        <MenuItem value={3} primaryText="Food" />
-        <MenuItem value={4} primaryText="Lodging" />
-        <MenuItem value={5} primaryText="Sightseeing" />
-        <MenuItem value={6} primaryText="Show Nothing" />
-      </DropDownMenu>
-    </ToolbarGroup>
-    <ToolbarGroup style={{height: '100%'}}>
-      <Row middle="xs" style={{height: '100%'}}>
-        <Col sm={6}>
-          <Toggle
+    <Row middle="xs" between="xs" style={{height: '100%'}}>
+      <Col xs>
+        <DropDownMenu value={1}>
+          <MenuItem value={1} primaryText="Show All" />
+          <MenuItem value={2} primaryText="Gas Stations" />
+          <MenuItem value={3} primaryText="Food" />
+          <MenuItem value={4} primaryText="Lodging" />
+          <MenuItem value={5} primaryText="Sightseeing" />
+          <MenuItem value={6} primaryText="Show Nothing" />
+        </DropDownMenu>
+      </Col>
+      <Col xs>
+        <Toggle
             label="Crime"
             labelPosition="right"
             style={styles.toggle}
           />
-        </Col>
-        <Col sm={6}>
-          <Toggle
-            label="RouteBox"
-            labelPosition="right"
-            style={styles.toggle}
-            defaultToggled={true}
-          />
-        </Col>
-      </Row>
-    </ToolbarGroup>
-    <ToolbarGroup>
-      <Slider name="slider0" defaultValue={0.5} />
-    </ToolbarGroup>
-    <ToolbarGroup float="right">
-      <ToolbarTitle text="7300 km" />   
-    </ToolbarGroup>
+      </Col>
+      <Col xs>
+        <Toggle
+          label="RouteBox"
+          labelPosition="right"
+          style={styles.toggle}
+          defaultToggled={true}
+        />
+      </Col>
+      <Col xs style={{height: '100%', marginBottom: '40'}}>
+        <Row style={{height: '100%'}}>
+          <Col xs>
+            <Slider name="slider0" defaultValue={0.5} />
+          </Col>
+        </Row>
+        <Row>
+          <Col xs style={{textAlign: 'center', marginBottom: '5'}}>
+            <span>Radius - 20km</span>
+          </Col>
+        </Row>
+      </Col>
+      <Col xs style={{textAlign: 'right'}}>
+        <ToolbarTitle text="7300 km" />  
+      </Col>
+    </Row>
   </Toolbar>
 );
 
