@@ -1,14 +1,29 @@
 import {default as React, Component} from "react";
 import _ from 'lodash';
-import {GoogleMapLoader, GoogleMap, Marker, DirectionsRenderer} from "react-google-maps";
+import {GoogleMapLoader, GoogleMap, Marker, DirectionsRenderer, SearchBox} from "react-google-maps";
 import PlacesNearby from './PlacesNearby';
 import RouteBoxerMap from './RouteBoxer';
 import ampConnector from 'ampersand-react-connector';
 import async from 'async';
+var GasStations = _.uniqBy(require('../../data/gas_stations.json'), 'place_id');
 /*
  * Add <script src="https://maps.googleapis.com/maps/api/js"></script> to your HTML to provide google.maps reference
  */
 class Directions extends Component {
+  static inputStyle = {
+      "border": "1px solid transparent",
+      "borderRadius": "1px",
+      "boxShadow": "0 2px 6px rgba(0, 0, 0, 0.3)",
+      "boxSizing": "border-box",
+      "MozBoxSizing": "border-box",
+      "fontSize": "14px",
+      "height": "32px",
+      "marginTop": "10px",
+      "outline": "none",
+      "padding": "0 12px",
+      "textOverflow": "ellipses",
+      "width": "400px"
+    };
 
   state = {
     origin: null,
@@ -16,7 +31,10 @@ class Directions extends Component {
     waypoints: [],
     directions: {},
     boxes: [],
-    fuelMarkers: []
+    fuelMarkers: [],
+    bounds: null,
+    gasStations: GasStations
+
   };
   componentWillMount() {
     let locations = this.props.mapLocations.toJSON();
@@ -141,10 +159,18 @@ class Directions extends Component {
   componentDidMount () {
     this.prepareData();
   };
-
+  handleBoundsChanged () {
+    this.setState({
+      bounds: this.refs.map.getBounds(),
+    });
+  }
+  handlePlacesChanged () {
+    const places = this.refs.searchBox.getPlaces();
+    // window.allLocations =  (window.allLocations || []).concat(places);
+  }
   render () {
-    const {origin, directions, fuelMarkers, boxes} = this.state;
-    console.log('origin', boxes);
+    const {origin, directions, fuelMarkers, boxes, gasStations} = this.state;
+    // console.log('origin', boxes);
     // console.log('directions', directions, fuelMarkers.map((fuel) => {
     //   return {
     //     lat: fuel.lat(), lng: fuel.lng() 
@@ -172,7 +198,8 @@ class Directions extends Component {
         googleMapElement={
           <GoogleMap 
             defaultZoom={3}
-            defaultCenter={origin.loc}>
+            defaultCenter={origin.loc}
+            ref="map">
             {fuelMarkers.map((marker, index) => {
               const ref = `marker_${index}`;
               return (
@@ -186,9 +213,32 @@ class Directions extends Component {
                 </Marker>
               );
             })}
+            {gasStations.map((marker, index) => {
+              const ref = marker.place_id;
+              return (
+                <Marker key={ref} ref={ref}
+                  position={marker.geometry.location}
+                  icon= {{
+                        url: marker.icon,
+                        size: new google.maps.Size(71, 71),
+                        origin: new google.maps.Point(0, 0),
+                        anchor: new google.maps.Point(17, 34),
+                        scaledSize: new google.maps.Size(25, 25)
+                      }}
+                  title={marker.name}>
+                </Marker>
+              );
+            })}
             {fuelPositions}
             {routeBoxer}
             {shouldRenderDirections.call(this)}
+            <SearchBox
+                      bounds={this.state.bounds}
+                      controlPosition={google.maps.ControlPosition.TOP_LEFT}
+                      onPlacesChanged={::this.handlePlacesChanged}
+                      ref="searchBox"
+                      placeholder="Search"
+                      style={Directions.inputStyle} />
           </GoogleMap>
         }
       />

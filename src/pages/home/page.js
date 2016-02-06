@@ -5,7 +5,7 @@ import AppBar from 'material-ui/lib/app-bar';
 import RaisedButton from 'material-ui/lib/raised-button';
 import MapToolbar from './MapToolbar';
 import TabExampleSimple from './TabExampleSimple';
-import ListExampleFolder from './ListExampleFolder';
+import PlaceDetail from './PlaceDetail';
 import app from 'ampersand-app';
 
 const {Grid, Row, Col} = require('react-flexbox-grid');
@@ -28,8 +28,8 @@ export default class HomePage extends React.Component {
             iconClassNameRight="muidocs-icon-navigation-expand-more"
           />
           <Row className={styles.row}>
-             <Col sm={9} xs={12}><Map mapState={app.mapState} mapLocations={app.mapLocations}/></Col>
-             <Col sm={3} xs={12} className={styles.list}>{ListExampleFolder()}</Col>
+             <Col sm={9} ><Map mapState={app.mapState} mapLocations={app.mapLocations}/></Col>
+             <Col sm={3} className={styles.list}>{PlaceDetail()}</Col>
           </Row>
         
         {MapToolbar(this.handler)}

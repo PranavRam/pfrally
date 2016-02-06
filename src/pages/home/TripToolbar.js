@@ -13,7 +13,6 @@ import ToolbarTitle from 'material-ui/lib/toolbar/toolbar-title';
 import DatePicker from 'material-ui/lib/date-picker/date-picker';
 import Toggle from 'material-ui/lib/toggle';
 const {Grid, Row, Col} = require('react-flexbox-grid');
-import Slider from 'material-ui/lib/slider';
 
 const styles = {
   datePicker: {
@@ -27,39 +26,16 @@ const styles = {
 const ToolbarExamplesSimple = (handler) => (
   <Toolbar>
     <ToolbarGroup> 
-      <DropDownMenu value={1}>
-        <MenuItem value={1} primaryText="Show All" />
-        <MenuItem value={2} primaryText="Gas Stations" />
-        <MenuItem value={3} primaryText="Food" />
-        <MenuItem value={4} primaryText="Lodging" />
-        <MenuItem value={5} primaryText="Sightseeing" />
-        <MenuItem value={6} primaryText="Show Nothing" />
+      <DropDownMenu value={2}>
+        <MenuItem value={1} primaryText="All Routes" />
+        <MenuItem value={2} primaryText="South Africa - Namibia" />
+        <MenuItem value={3} primaryText="Namibia - Zambia" />
+        <MenuItem value={4} primaryText="Zambia - Malawi" />
+        <MenuItem value={5} primaryText="Malawi - Mozambique" />
       </DropDownMenu>
     </ToolbarGroup>
-    <ToolbarGroup style={{height: '100%'}}>
-      <Row middle="xs" style={{height: '100%'}}>
-        <Col sm={6}>
-          <Toggle
-            label="Crime"
-            labelPosition="right"
-            style={styles.toggle}
-          />
-        </Col>
-        <Col sm={6}>
-          <Toggle
-            label="RouteBox"
-            labelPosition="right"
-            style={styles.toggle}
-            defaultToggled={true}
-          />
-        </Col>
-      </Row>
-    </ToolbarGroup>
-    <ToolbarGroup>
-      <Slider name="slider0" defaultValue={0.5} />
-    </ToolbarGroup>
     <ToolbarGroup float="right">
-      <ToolbarTitle text="7300 km" />   
+      <ToolbarTitle text="800 km" />   
     </ToolbarGroup>
   </Toolbar>
 );

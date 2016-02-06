@@ -49,7 +49,12 @@ module.exports = {
       {
         test: /(\.scss|\.css)$/,
         loader: ExtractTextPlugin.extract('style-loader', 'css?sourceMap&modules&importLoaders=1&localIdentName=[name]__[local]___[hash:base64:5]!postcss!sass?sourceMap')
-      }
+      },
+      {
+        test: /\.json$/,
+        loader: "json"
+      },
+      { test: /\.(png|jpg)$/, loader: 'url-loader?limit=8192' }
     ]
   },
 

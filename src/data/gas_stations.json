@@ -1,0 +1,3535 @@
+[
+    {
+        "formatted_address": "Southern Industrial Area, Windhoek, Namibia",
+        "geometry": {
+            "location": {
+                "lat": -22.5905365,
+                "lng": 17.080044199999975
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "b29faea4f3c5a660aa79175291e6569d133c2cd5",
+        "name": "Shell Gas Station",
+        "place_id": "ChIJIzDhriEbCxwRGLK7SDAY39U",
+        "reference": "CnRlAAAA18wVqoDffYYodLh0otakri-8N67rPKmKk598hLYH6D6m-0GUM72_U7Amlg8NYb_q27SHhXOEEyk-sY5xlgOBtEF45P27GWvgUOY_Ga5ujK3zDvVjm4AqT1G-wUMNYJtTz2SVyVAYlPoUbaNzKK80oRIQNHW6pF30tsj_8QnYjHT6VhoUvD0eX_dqggdZJgFgugklo5p_usc",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Klein Windhoek, Windhoek, Namibia",
+        "geometry": {
+            "location": {
+                "lat": -22.5719522,
+                "lng": 17.102698099999998
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "4edf42115f225ab46d13e63563a324bc915c6a46",
+        "name": "ENGEN",
+        "place_id": "ChIJJ0IPGMsECxwRFhLuJS0tkRM",
+        "reference": "CmRYAAAAPAwAG1bFomELLX4XuwgqL8q7BQuHHkrEd_O6iIadnxR9DXRsNUM-ITX2_ZF9IR-lK5eZxcEhfbsD7564v-FJmDbSC8VVw-uzobvyXKRyzdCMylBl1QNCq2mZlAvK7xh_EhA2pV3BxTIhGFdbvPZuQFZ1GhR0u5kR7-sAxT_9JXAQwRT8miqoFA",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Pelican Street, Windhoek, Namibia",
+        "geometry": {
+            "location": {
+                "lat": -22.5734383,
+                "lng": 17.05747599999995
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "9a4e1a6028bdaeaabe597ed21bd6ff3e722f8688",
+        "name": "Hochland Service Station",
+        "place_id": "ChIJee0bLQsbCxwRX73zFNQQCV8",
+        "reference": "CnRrAAAAMteldgwqT_-wmoxwkhYf3rhGhnb89-HGAy-hhTJuG7lN-MV8of7juI5F4_V74nt0xwUnCcrnYqpMCKDyGbm1WV4iVrR4sYvGlatz4bXM9PUPQDmO4DeaFdllfYzmbMjcMjnJjIXQTfNpEzVKcwgnXBIQ2XgQd_G1FwfnbdNy50ehMBoUqGwT4g3gnwCvDRxiiFlX7gyjDs0",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Windhoek, Namibia",
+        "geometry": {
+            "location": {
+                "lat": -22.5117492,
+                "lng": 17.06110239999998
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "ad52c6a437befaea388cef66bbbebeb96c04cf62",
+        "name": "Monte Christo",
+        "place_id": "ChIJP0TwyPscCxwRLmFIJL0PWQs",
+        "reference": "CmRgAAAA5gQ7sfWBWSjcHLOKtnbd8PsjFhugu5CTWHF8Czw2vqxE81KwS59_4DfNqDPTWlfCQXPwJ39iHRQ2JftOv0RaBSGHiqtHmgzX3Yo97_BgAQU4voV9GSHU5XWy9TGSkBJUEhDXwPyrDDGnaLruTe_6nHR3GhS3NzCWVHBWs-uWdv4mXk6SB9vUMQ",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Jan Jonker St, Windhoek, Namibia",
+        "geometry": {
+            "location": {
+                "lat": -22.5769615,
+                "lng": 17.08693100000005
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "508490e9c1802a4071cb3c7b08895d9840d4a75f",
+        "name": "Jan Jonker Service Station",
+        "place_id": "ChIJUdHWMDobCxwRDYnUife9w6Q",
+        "reference": "CnRuAAAADBRETxXqEX8MgHc_Z42Z0qzYNOedLWJ8EjV0Rj9bB_pcY6Uf--B-HgJAHpvmVmgp8GdX4HetWlqkWLapWYKWEdiE6M_0S2PNmSQGin-AIyrf8Ht9HoAS2rONYO_cxspIcCiZFNb4-zrIcfdm5PNcYBIQcco9_-26M8z5b5SzSzIFPBoU8aA6PEZTms_vR2pFPrqzlr_wiR8",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Windhoek, Namibia",
+        "geometry": {
+            "location": {
+                "lat": -22.5218088,
+                "lng": 17.03680159999999
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "f9fcb1fddd588be40e41f9ae8922a4a83341a593",
+        "name": "Oshakati Service Station",
+        "place_id": "ChIJ31KBJEQcCxwR1jQNkk4lZWk",
+        "reference": "CnRrAAAAdd86vwaIULpXbl74KGc8QkKCXVx6oNTplO6QUfv7zkhEVm2UCb0sTSFmrO0ROBthtxBI2zrZW02fAg9K2Ge4O5_gBb70ozs-8375hO0jC_-9eQoWiJQh9-ZpNcqOS_-fR828utwIZjwHugQS3HLqDxIQsNX3YEvY6zi7zXP7NL5coBoUISZ-YJLlQu6eAzSQI1xd9sVfESs",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Hans-Dietrich Genscher, Windhoek, Namibia",
+        "geometry": {
+            "location": {
+                "lat": -22.5259167,
+                "lng": 17.06833359999996
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "4eefd27fc8e539dd75773a35af789a838ab57d9c",
+        "name": "Hakahana Service Station",
+        "place_id": "ChIJ325YOu0cCxwRLqh0lg_J-vU",
+        "reference": "CnRsAAAAj65zpXVZyAgUUoIckneSCf9VEdfNbcFVKzMX_xYMf1_-LJPBIbFDbq4sxEt2eCKGuiMaIWLlbD_UVlcN-Vf1U_6uAzjOm_sYnsn86fm7Ce921QeJ2ZVUJ93ws43z6oVhBavVy5b3Q8j-SLx5UZvBGxIQ_mUkpWZN-oR5ybOIO156ChoUz-MmcwpRlAAwULje6Nt-J_9gzNQ",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Dortmund Street, Windhoek, Namibia",
+        "geometry": {
+            "location": {
+                "lat": -22.5265229,
+                "lng": 17.075434900000005
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "cfdb93cb334a934e4d6223fed9bb5d239cdf27b8",
+        "name": "Bonsmara Service Station",
+        "place_id": "ChIJ73dePZUcCxwRVQ8PBnJQENY",
+        "reference": "CnRsAAAAXc1Hyk3WSyv6uS_Q6dGJcXtYHafYe796x7QZMdelOWard_6m71yOlwHpzdgR60jBFHHRNPtioQNrrEegcr0KjuPlcqzEFTlyaRQNLpoVfwu4CfHfIyYnM15VJdfMJxQktqz8wPHwJQ6TmPSjszwF6xIQHYY0Qyol0fVGKrjnNeRkzBoUCXq4TlkrGybSpJqPppOlO7Hjrjw",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Edison Street, Windhoek, Namibia",
+        "geometry": {
+            "location": {
+                "lat": -22.5830278,
+                "lng": 17.080221199999983
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "46d9acc1e6cc7e948d9fff715538801b82e3be45",
+        "name": "Subway Service Station",
+        "place_id": "ChIJcSxB1yIbCxwRdjEIg9pTUro",
+        "reference": "CnRqAAAA5znnPA8JV_PaLe5lfN6aDSkWaDOPhOCg_c-WQyU56Hu4qSTykB28AgFZ_C8AlBBGuLN7u912CiE9vJRl-4Y9atudev2EDYHSkVjMYrAs0KZt3Z-0HDkB0GAfzSulqK-3ba0yypp-p_Fr-GCo-rna9BIQvoVkFwC296mkhN_9llwlIRoU_HV7sFI414wJO-jvUGnlw3Ez9_Y",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Independence Ave, Windhoek, Namibia",
+        "geometry": {
+            "location": {
+                "lat": -22.5565601,
+                "lng": 17.083610399999998
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "d9c027dea67e83328930cbefad5ac8f8f76069bc",
+        "name": "Eureka Service Station",
+        "place_id": "ChIJVdisfVsbCxwRhIiydrc4HjE",
+        "reference": "CnRpAAAA3hOkrfT5015kptCeo1E7zRxRfN32-C6zxXAd1zgIG3lcTh-YHuEMIuIIT1jVafNQG84C0dPbwZHEo1quMHZibGeHEUEtzhL4jcCuEFiK7MylmOsBDIaWlHVdgOY4IvN5VFYqYjb0PQY0EHdQofQIXhIQlCLUZM_ZW_IOexnc1cbJaBoUD3Ni9OtTqLe5iu-jASP7CopX_Bc",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Monte Christo Road, Windhoek, Namibia",
+        "geometry": {
+            "location": {
+                "lat": -22.5123191,
+                "lng": 17.062625900000057
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "54004e93bf763b9b7142909980126a2f68e68b5c",
+        "name": "Monte Christo Service Station",
+        "place_id": "ChIJl-gCVfocCxwRdUbBxxsDXH4",
+        "reference": "CnRwAAAAKM_3y678YlU23UMBNbGF1nNQBNgt5JUZzmw9esyCIM5DDwoh8XE3FO18wJear-yUAP_Md7NTGsEvblUWIqpnfSy-T5rqPwEyYXynVDK85vHGoodx6uQ2wle7nu51oG6lv4Iw1bVoCUdc_-p5tj92zhIQ6JYBiiWg3Tl0zxcF7T8P_BoUQv05B91Xcba0YQXPrfgDT2F0NWA",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Suiderhof, Windhoek, Namibia",
+        "geometry": {
+            "location": {
+                "lat": -22.603953,
+                "lng": 17.09945259999995
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "8a043e7cd0b412e7784f1906eea3108ba2fac99f",
+        "name": "Engen",
+        "place_id": "ChIJGyRDZs0aCxwRzKF5OwvQbBE",
+        "reference": "CmRYAAAAQwgEenzHvjV9d2OtYuTgczYWxbRjUfeg_YmtLEUzCL6kV2qmR_Hb3hu5rq36OV0oPuqDg6b1x-f7pnfIwiFWjIRBNXg64UqxC7wHnKqGKUoy55mzzvZfZGLhrJyz2qPSEhBFXbM7u9qR7VSbOSs98D4YGhQEqPjldzqgZtuYJq_rZU4ffn1y3g",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Jason Hamutenya Ndadi St, Windhoek, Namibia",
+        "geometry": {
+            "location": {
+                "lat": -22.6038063,
+                "lng": 17.09936199999993
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "a3eba742ec26c5c56f3229e630c834908f960a39",
+        "name": "Engen",
+        "place_id": "ChIJy8mJZs0aCxwR3N9hae2c124",
+        "reference": "CmRYAAAA6EGa9S7MsFiYwf5Aa7M9mCWYF5bEJ922GJRGbtH4qtggWyy8pKpKakn5oXENOk232q9Djxek1B8ZAnr8ZuDj3rTCjQrmpy170EgsiYTls4xKmNRt0auVo5XVSg5GXFbrEhBloRgffafJIiWhKV250ietGhQme5r288IWxzS6c-8NkCkEoPv7Tw",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "B1, Outjo, Namibia",
+        "geometry": {
+            "location": {
+                "lat": -20.1067409,
+                "lng": 16.151555299999927
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "f26cd63e401bb337ac5c93911f2ed13b896d4443",
+        "name": "Weimann's Garage",
+        "place_id": "ChIJWei7MNGXjBsRCii-0XQjIa0",
+        "reference": "CnRkAAAASWy1YZdMJuovS0lbQao8jbLEd0jnRtZuKXdyhZO5gqHNzlfHtWZ7mE4ZdXlhVRVkBnq8ptDKZWq2_f0Uv1qLGnjJDcUBkHTyTjljMBgtyFJAAuy4n2ljo3afRx9n5jVzbwy7zqE_nuhaPX8ty4GLwxIQOF4SOVDWdxUEO9ETlgV-fxoUzHCxrLSlHAKGiqPc_ITS868D81o",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Gobabis, Namibia",
+        "geometry": {
+            "location": {
+                "lat": -22.4494864,
+                "lng": 18.977942100000064
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "88ce4b3a818559d37cd4343feed49de00319501c",
+        "name": "Wimpy Gobabis",
+        "opening_hours": {
+            "open_now": true,
+            "weekday_text": []
+        },
+        "place_id": "ChIJWWdPjmvlCBwRyXwidp0RSxE",
+        "reference": "CmRgAAAACtcCyy5ZM8CxwyPMapeEAzXAsK5y3yezFJZyWsWtYDLtTMEZe4UE3o-SBrCf-mSuoRX5M9F0vPPsDgVtbmHw36_7kTa2slugEoqF19jxO2b8L6pb7-ToNQ73GuGLvhMEEhAXxeUXawSgXwMb68lf9uPEGhQjwpG0cQSLR4b0kjxlEKk18TIydw",
+        "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Rundu, Namibia",
+        "geometry": {
+            "location": {
+                "lat": -17.9139363,
+                "lng": 19.769863999999984
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "94f77ba8f0c8712443e202b4110bd001b33f951a",
+        "name": "Total Service Station",
+        "photos": [
+            {
+                "height": 1024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115059473480042399900/photos\">Mr Laden</a>"
+                ],
+                "width": 768
+            }
+        ],
+        "place_id": "ChIJyYrrPntw5RsRr91sT6t3raQ",
+        "reference": "CnRpAAAAaAdTZkpNfekNs1k9udqvadIrv9uji0jqbFRp1AeuIiLi1KhLroezNgov6b1LiaSodo-gOU62ItQ46bBwfSmJeDU8gRk_Wvi5vuXmjH83gpR1BEOJwue_MEDPIvXuoAdvS3u6xT5-TB2mhrYu55njNBIQjWNw-uTsKVuLHvMz1prdgRoUU9KsYPXzJ6DTUftY6cuI5OpuPOk",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Park St, Karibib, Namibia",
+        "geometry": {
+            "location": {
+                "lat": -21.9350669,
+                "lng": 15.857046200000013
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "cbd3647cb67770eaf0df09c4c62e1b857d8eef79",
+        "name": "Engen",
+        "place_id": "ChIJvfqWR0t5dRwRWjZq8kiPLBg",
+        "reference": "CmRYAAAA_Y3akcS3ciHwyV9LknC2bg-u1gnPN98RmIQHrj_1r65tj5K50pX4PAc3nInm4LJ4sHcS0RvECRf6elVAXAkBwIWlfywfmNo32Khx8Xqp5o4jr2ITeOEVweLtGm2mc7UmEhBEw8BxUYbZwvjTBTeHzKW7GhTriZsnO4lEcskKirLhQ7WUdjSvRQ",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Cnr &, Nelson Mandela Dr, Mahikeng, 2745, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -25.864187,
+                "lng": 25.646433000000002
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "701eb7154d86d32a7703ece6d827a5484d7be246",
+        "name": "Total Mafikeng",
+        "photos": [
+            {
+                "height": 768,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111896675508322332581/photos\">Total Mafikeng</a>"
+                ],
+                "width": 1024
+            }
+        ],
+        "place_id": "ChIJY9hcl8bKoh4RDfATfQsosLQ",
+        "reference": "CnRiAAAA2FwZvbjtqAg0HOQdnCxMny_EXP2AZSVQqzuh3E9VcUGcoQu_1czMMXB8qXHdav4a__o85sT40Su-tb7bUEBRqJY01Rkr3clPUUC8OlShrj7aUGQB9fpNTDW_IxcLNjKCtW8UEidynUbq_ItsB-OI7hIQ1rY7Sx-OztRAcRZZwIb7cBoU-Zn74b6zhcBEQi6ndBnqV2fAX8c",
+        "types": [
+            "gas_station",
+            "convenience_store",
+            "atm",
+            "cafe",
+            "car_repair",
+            "finance",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "5 Kerk St, CBD, Zeerust, 2864, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -25.5465139,
+                "lng": 26.07568900000001
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "f49b5a7910d59d52ae5f1dade1a52c7374d6c29e",
+        "name": "Shell",
+        "place_id": "ChIJhxawJysfvR4RtaRNmlBEn9M",
+        "price_level": 2,
+        "reference": "CmRZAAAAeZNuIkSHBbPyChgQFPlI3UHTDCPt3U61-qa1BoVjoYdYoYBzauHDIvyrVCtv6Lmr259TlozYDBn7xp_ryLuirEAokrfbbyNpH6o2DAFM1A95f1tGcueXFmOwhQCnOiD9EhCho7AOA-2kWn9PFsvorHXeGhSukk0_J_oA6S2iF0EhwjbiL2h_2g",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "2402 President Mangope Dr, Itsoseng, 2744, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.07336699999999,
+                "lng": 25.886765999999966
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "359e1f6b72ca6936f582cb9a219afa9692ab2dba",
+        "name": "Total Itsoseng Motors",
+        "place_id": "ChIJqxCCZFpavR4RvffQzM1ZXXY",
+        "reference": "CnRoAAAAbnQOoIpDIDkJEVFKGT22k7WxpZOBWO1zTudfC146oGVVMMPNyh09nPrg89odSv1Tm-DdhKFELwbkDPgoQqu_0rmJWkom9P78suo6ri5NroGsCah8j4qmyXgWEP-5Swu6RCCwBlofqj6_FN_NDeXAVRIQbj2tCKXEn6hE6rVDwaYWrhoUg15i3Fq1sbRMu6V6sI16IE4peVQ",
+        "types": [
+            "gas_station",
+            "convenience_store",
+            "food",
+            "store",
+            "car_repair",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Great N, Lusaka, Zambia",
+        "geometry": {
+            "location": {
+                "lat": -15.356351,
+                "lng": 28.27614159999996
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "affccaafda392c26d5cb825134a5eb19c22c1f14",
+        "name": "MT Meru SOS Filling Station",
+        "place_id": "ChIJT7tRAj71QBkRp_yzTQPRrzU",
+        "reference": "CnRuAAAARSCzK24-pZ-0LUxuhZ6EUbi3w9QSPEa2DHncGFlskr2LhqUcUej2WGrBBE4gQV5seO9XKumwDWju5NL_ohmiyV0yJ-uBaQFIngTxBrttYJ-dQuo9P3JOvjwVnrt1BQsM3z60MI3IKedTIVTGRWUgYhIQmJxx495VMGudCd-wMv-8WRoU8RG0EjAu_UY2j6TVWkvCsVuWjhI",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Avondale, Lusaka, Zambia",
+        "geometry": {
+            "location": {
+                "lat": -15.3768069,
+                "lng": 28.378243399999974
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "61624f3ed5da3e9fa2344210a3b3b9d7ce43f330",
+        "name": "Puma Filling Station",
+        "place_id": "ChIJ83DnqcOLQBkRtdwk9UoKdz8",
+        "reference": "CnRnAAAAVMwwFtsLI6dxhydtSITLCYjRM4FHi9VZvoNZHK2MrNw1KAjkesD3qirm4o5rc_jS45jDTfL-nh861fyXgaGprgLFJFeAgKhfS2X6YD_6zuu-O6hF3XYTrfeD1BYfrJ7k8bhrcggANJssXxa6rY7GKxIQdQW5qovWHsbGbVdQZp4fuBoUX7VDtOH3ARiyolgr5Yp8K3Vffdo",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "T4, Lusaka, Zambia",
+        "geometry": {
+            "location": {
+                "lat": -15.3775594,
+                "lng": 28.370391599999948
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "28c2d7167ebb0c0013ed04cc1a696e067c578143",
+        "name": "Engen Filling Station",
+        "place_id": "ChIJQ5snkMCLQBkR7cHpHm4hnEg",
+        "reference": "CnRoAAAAMO2Cx1znwwHOjOEa8wH5mFjKW4m09eOPS1PgbVHroDkbrSpQ_5neC8eObdsAliSvAJjfV46NZeoZDglKUSotNpUYhpJE-4v6p7HWVgCUC8qLGOAgonm4_uJ0OVwsVwPKPdnhMXnbaXpapIZohbDzNxIQv7WaK3-0MHX90OR3FSMd4xoUnNsriO99fJs0VftyLFvSoSPZWcE",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Chiyanga Rd, Lusaka, Zambia",
+        "geometry": {
+            "location": {
+                "lat": -15.4067294,
+                "lng": 28.287379800000053
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "9d947ea40f174e8b934fe59426df1f0f2d9df90b",
+        "name": "Wimpy's",
+        "place_id": "ChIJda-CjqX0QBkRoQBMSo9NvNA",
+        "reference": "CmRbAAAA73gAbqHjvF5BmkTnSZ5of3D6tPXolgp559jZNpgU53q_g9lPB1GPoXWrk-MQD_SU3YN5SsTPAT4QnHmpbqzabQS3a5437jPmtRbGuR-1PIWOdMa2azPbZwVhtPV5v-G6EhAMKhqxWOT3W8GFGDjaf-XeGhSvTxKcSBm9O7o9awm-vH_jcNV4hQ",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Sunningdale, Lusaka, Zambia",
+        "geometry": {
+            "location": {
+                "lat": -15.4091266,
+                "lng": 28.34423300000003
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "817495773ef9ffbcb770ac04bb29deb892f7d35b",
+        "name": "Petroda Filling Station",
+        "place_id": "ChIJByzY8YCMQBkRVYOjdkv90fA",
+        "reference": "CnRrAAAA6XnMSDcDegly4KuADM47luP-6pc3dIvOGHeuULtWVzB3eMevRyI_yJOyULe3-3jztlO-jKYAxU0D_ys3ud2M_KqnqWqk7TEYTPmEeapMul02yZne_OnCWDc4prJMxxX-Zh5pAX3l57eHSPQVoh5LfRIQud9zrE51S-xfQIL6esnIyBoUdmt36OGxr09yJb4fDj1GiC4B1R4",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Chilimbulu Rd, Lusaka, Zambia",
+        "geometry": {
+            "location": {
+                "lat": -15.4470995,
+                "lng": 28.326986199999965
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "ea9a32edd3b90e2c9536a1986f20f2db8a105027",
+        "name": "Engen",
+        "place_id": "ChIJiZ2HFOGMQBkRGjKBGaJwcXg",
+        "reference": "CmRYAAAAPa0wKT8qdCF-rKcNdqqsTA_ro9h_lf2SmPj8rT7EOioOeKfacgTcq1TZkgBAJoAHR7KauMobm-1DXdHOlugShUR9u8LsY8FN5ADF4kY9gLkU5740pp3LVGVeg9ENWUFlEhC1mCXUl52PmWqsJj2D5W-qGhSoeNUvqLETkjFSc_d_p0MDFad4NA",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "T4, Lusaka, Zambia",
+        "geometry": {
+            "location": {
+                "lat": -15.3909632,
+                "lng": 28.315866000000028
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "98b696e78c9189f72f09e22621d4c7c570c4d678",
+        "name": "Ody's",
+        "place_id": "ChIJTwIrIUeLQBkRHSwlQL637XA",
+        "reference": "CmRYAAAAK2he5iOEmxHdVasx2M2Jj1gX7WVNnm9TQ3mjgoyupZLFe59jWoIXw4n4MyrsWyO39M6e_pNRaQnaZGywpo6lJ3jlxB1oTdJ-z-Kl40KQD4b9EYwA59EJKWhEDgEmXehQEhBuL3AGaGMAWHt-hHZyAkoQGhSe5b8EpcG5q1l90yIDuGZiQf4FiQ",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Twapia Rd, Ndola, Zambia",
+        "geometry": {
+            "location": {
+                "lat": -12.9839004,
+                "lng": 28.5873914
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "3093e2faed05587466af82f570d8ac37bd8bce37",
+        "name": "SGC Station",
+        "place_id": "ChIJgXlp6y60bBkR6_HxIYt2ogY",
+        "reference": "CmReAAAA0h1SNqgOi0yFUBnOWzP4XdzqjWxSoQ-fTeVE-pgTeBlswG8jzMCAH5VdtWzs3sZUGfZRHVX_2T2_razdNn8L2lsoYrl1qT-tsmGRdcgWsHMSrisAP2Vh5wmirLp3Pa9YEhD0MgRjxl3IAjP7ceO_AknwGhTTczRa27sl7VvDk6EV5IIEZBW9yA",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Kabundi Rd, Chingola, Zambia",
+        "geometry": {
+            "location": {
+                "lat": -12.5458769,
+                "lng": 27.86402480000004
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "6d627b9cd682984306adb0f693a8602d3d5204d3",
+        "name": "Total",
+        "place_id": "ChIJdUWk1-2obRkRmFLspUOY9Go",
+        "reference": "CmRYAAAAgppudq-Oyxh3JxJbM5_REAbimCtG44U4-bnBOfDjDii7sHfeYab6A4DC9bRamqBEIUjxML2UT2j4mXbrxvtZ8SYfK-6TBus2Q68wosWZUxpkmGvks8vqbB4p2fSrY4jXEhA1jHpyiCXaw47jMMyT2DpJGhTqz8o9f3rkGuaDjRWNwUSNQIy9vg",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Chilimbulu Rd, Lusaka, Zambia",
+        "geometry": {
+            "location": {
+                "lat": -15.4410949,
+                "lng": 28.312711700000023
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "5a5b0c7ed5605977308b48ae1f16de27f562688a",
+        "name": "Mount Meru",
+        "place_id": "ChIJK4HFOMWMQBkRYqyVx4R4IJk",
+        "reference": "CmReAAAAO1xatkgZK_SzfzQaGszZe-iGkQ1bOavSXaNOHZySd_YfICpkoHzRM24fUi1sR3umqs28i3Mv8Kf9LNs-Mni4dBfiAbXeOngVJ6FQkc-f9zEmKFF7R6XaApliG2W6VzWPEhD3hsOxquT3VRG6g2CrSNJoGhQcwkT-HzBe2GHQQRaoEv_ayrt6Zg",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "T3, Ndola, Zambia",
+        "geometry": {
+            "location": {
+                "lat": -12.9700373,
+                "lng": 28.62198109999997
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "bf2c52b54ec3acb0253da366375d16ae22a7eec9",
+        "name": "Total",
+        "place_id": "ChIJX51GmKu1bBkRcRUEclnE274",
+        "reference": "CmRZAAAAbtWKIycBK1zVLe-9i598GaQdSS9S0oXyj4q1hZOGDZ0Lv3G-Ge4BpTsfySXPKWp0gCdBdrrDbAk3jMuNYG-M_lNufpewDVJ0cxh_St4JXX6BCli8Ihng57yNT8Payk6JEhDknmpxHOKcZ3c-7XBrdi_KGhTLLigaryqV0GoGVxDqRndqvsQfkQ",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Chobe, Botswana",
+        "geometry": {
+            "location": {
+                "lat": -17.8045683,
+                "lng": 25.24273149999999
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "2d542bd99091ff78b7c0ddd7c2f9933f2fc26f4b",
+        "name": "Engen",
+        "photos": [
+            {
+                "height": 976,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111541897280301225337/photos\">rosinah olositswe</a>"
+                ],
+                "width": 1296
+            }
+        ],
+        "place_id": "ChIJ7_xHgsmfWhkRaGzfzLuPIl4",
+        "reference": "CmRYAAAAATSuPp9MmjI7ygJc-2tlWXdZRqk1e_21gPyriTqfSDLM67oXAUKOGCKP5RP6ISGIye-uZjO6nh_j39M9tz24Pdqgw_XLsS_9UGTMBJHTnK6XiBf7icRlJEn50Dj4we97EhCVKgXiafWYHGZm6LeLXevuGhSd2TrqmqMN8DDrZT5Rmyda4Njeaw",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "A1, Harare, Zimbabwe",
+        "geometry": {
+            "location": {
+                "lat": -17.7944111,
+                "lng": 31.04511339999999
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "93468da3de0d70baaf3ee34a537fd160a3251ac2",
+        "name": "Zuva",
+        "place_id": "ChIJ560B1nGlMRkRDRTSlH5BhiM",
+        "reference": "CmRXAAAAzvTZjnbWkPMUMPOMLmtEjgBIjH20c9noJfn7EFYz9shkDJPtYnqmtYXVUskMTdmk_0fUe3bCFJLRciyGS9zkGqhFEg4cgy3BawMQJkUrlfadmubM7Sgk6myXajCl1tcREhDuhkJS9oYaNyNTg-_EEsJVGhTOiI3aR7cLgMocQjJhX2cJfPFG5w",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Chilambula, Lilongwe, Malawi",
+        "geometry": {
+            "location": {
+                "lat": -13.9755609,
+                "lng": 33.77822170000002
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "46c616453d99462101dd4d33ab6d9b32916ed2db",
+        "name": "Petroda",
+        "place_id": "ChIJ_9wKvyPTIRkRye_dbr5DE0I",
+        "reference": "CmRaAAAAI84nY9gFnUiaoBCnm9F_hwEe1_iOQDQs1n9GAX_ywtBQSV6uRia8FSfqIwkFStHNQaLqIfvvs5Pcu-mCc75765-p4ykPnsIdPnoJxxfIOFArONT7LcdCjjhwokpPzeomEhBrXTeuLBZ6O5eEPC-JHpdTGhSIOWTM0W61Dx4KWnAp2AcEV1WSOQ",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Mphungu, Lilongwe, Malawi",
+        "geometry": {
+            "location": {
+                "lat": -13.9549765,
+                "lng": 33.809664899999916
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "14ff8d9717c3c1da55415fb14e48b3378b80da4c",
+        "name": "Total Malawi",
+        "place_id": "ChIJb2wxTrgsIBkRBHvSuK5ojHQ",
+        "reference": "CmRfAAAAU5wikFnsRhlmWwgEy1W85rHlf1_SICDzH8ZYfPGvvcTNOUEdjMov49N8Pcz3aHolzj3YgtiFeLZFx71IVQ9ctnEmjJlOM3r_-eGndZ8bPiBoV10UP888Bp_CwpAofLXsEhCrAgB7MnSCvexyDYEAxuE3GhQ0YiWhUdf_DNqd39uSAD1CXx3qgA",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Selous, Lilongwe, Malawi",
+        "geometry": {
+            "location": {
+                "lat": -13.9751267,
+                "lng": 33.756923099999995
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "6b7746b6326b4b1091a5e4b7fcdaf4a9b5871557",
+        "name": "Cross Roads Service Station",
+        "place_id": "ChIJjw9xqQjTIRkRi5eOYA1IBx4",
+        "reference": "CnRuAAAAnriU307a0HZOEg8xQE1JutH-crbSAmPob092F4uEQVW5I7ebm-jyIFNb8PzbaB4P9OYqa1cr3RJq41sYns848ktoXuvk5uR_HlWvjjIMBw3STXuwIXLceumuGSn-jkvKTVwhuNc1pBCcr6ikFuMfCxIQ4ZceQyNJQRg_Xnl0h3iToBoU0wRZUAAKz3KKZ3yV8vRzqzg7CD8",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "M2, Blantyre, Malawi",
+        "geometry": {
+            "location": {
+                "lat": -15.8202555,
+                "lng": 35.060559499999954
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "0e5452885884b679da54bc42b864bde8d159e98a",
+        "name": "Petroda",
+        "place_id": "ChIJ3xjlXrVI2BgRhH_IqsFoJgA",
+        "reference": "CmRZAAAABf25qtlMFbPdPn2j4o1n4Yuh0x054EfttjFIINgnsYeNsVSvqXRNaTcgXykyqt-eSsKiW53rqA5CalslS8GqQpv6-ZfB4c9qUVkJC5YlUkiiGUOIWMDGNr2Ry4mOqQJEEhCaE2oVEqbhXIqLi0sSLbIAGhQhI44WTpHfoujfjJxkHERNtWK4tw",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Chilambula, Lilongwe, Malawi",
+        "geometry": {
+            "location": {
+                "lat": -13.9755609,
+                "lng": 33.77822170000002
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "46c616453d99462101dd4d33ab6d9b32916ed2db",
+        "name": "Petroda",
+        "place_id": "ChIJ_9wKvyPTIRkRye_dbr5DE0I",
+        "reference": "CmRaAAAAhPmW0Yq6m8L4--HM9sC6LWOcYl1vn5kmBkR9Y2rFP9ponC3sp_SRVsO_qbqm4djsHj9inAuxMvOwBVHR__GJzHKUOsRYhdvWUhvV7TCkUzL8rGI9DEiIWrbxEt4d1eUrEhBrpOiLYCT71Qr7fXw0ZypyGhQDorIFoEsiudg-xudfixYktB7cvg",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Maputo, Mozambique",
+        "geometry": {
+            "location": {
+                "lat": -25.9429856,
+                "lng": 32.5390175
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "7242e833007fd7d7ab0dda8019eaae56fbd67f1e",
+        "name": "Intertek Government and Trade Services Mozambique",
+        "place_id": "ChIJkS-kHrOa5h4R6lomGqY4MDM",
+        "reference": "CpQBhQAAAJxYj21yTWNe-JotI91SzMEiw4VY6zSaxCDlEhx2xVti3-F8HzQMoYOx2DxgCD9inQ9GfeC4uncRUaDZXzTUJNYbr4quO_IZoYD2-yiNkCjvJXDSbx3-9ek_1g-bSSkL3ON4gZFe3nsKPbcdl4HRY-9CcCijAblmqQGisAhAhdLg26g2wzNhxq2FX1VNxFJ2IRIQVT2F_TW3h_sXuTZwKRrSyRoUzHS6vqTMnelUGkIeiMpZD1PDtzE",
+        "types": [
+            "car_repair",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": [
+            "Listings by <a href=\"http://www.easyinfo.co.za/\">Easyinfo.co.za</a>"
+        ]
+    },
+    {
+        "formatted_address": "Av. Karl Marx, Maputo, Mozambique",
+        "geometry": {
+            "location": {
+                "lat": -25.969996,
+                "lng": 32.57092239999997
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "12bb1586f991df1ee4c27d8997b4151a631a26e9",
+        "name": "Petromoc",
+        "place_id": "ChIJZYgzShub5h4RDXB9wdzcOnw",
+        "rating": 4,
+        "reference": "CmRbAAAA_LuWA8IEJULq4Y-fQ3oUR7b3DDOlVInPFtP5zieLHglgs6jp8EJBZb9Z08JujLmCDh_Sr0kuXcshHvFYQj-kN2nmvUQdUhv711Uj7S3M2LHHgEhh95nTRni4hMOclM-eEhBlmEz1gYjbGxCxDDYWplGcGhTzTbzqAlKss9TXvn1P_4lu_N1n3w",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": [
+            "Listings by <a href=\"http://www.easyinfo.co.za/\">Easyinfo.co.za</a>"
+        ]
+    },
+    {
+        "formatted_address": "Av. 24 de Julho, Maputo, Mozambique",
+        "geometry": {
+            "location": {
+                "lat": -25.9616042,
+                "lng": 32.56596030000003
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "bd0a4bd9e48cdbff70db07a263190d51b8d185bc",
+        "name": "Fuel Station BP",
+        "opening_hours": {
+            "open_now": true,
+            "weekday_text": []
+        },
+        "photos": [
+            {
+                "height": 576,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117986077238638507431/photos\">Ahmed RAZA786 Attari</a>"
+                ],
+                "width": 1024
+            }
+        ],
+        "place_id": "ChIJpUe60OOa5h4R8JDOjTjV8P4",
+        "reference": "CnRjAAAAfbTNypxYNgyL5enKNzdi4SSJNr-DmQb7vgpcK2mGJsj1L-DXyXEM0pI0x1UGlMu8mE1GHMQwT0HVyxz10t5EluKpe4ZAjIAWS9lwbHtsGPvpjxSmVEBGOq3o_zghn04CukPu1vQObuWelauBML8JDBIQlBm5yqxWRBU4YB05SC7zbRoUTqrabBuqZZPg7hCgq3w8QJhDAAI",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": [
+            "Listings by <a href=\"http://www.easyinfo.co.za/\">Easyinfo.co.za</a>"
+        ]
+    },
+    {
+        "formatted_address": "52 Rissik St, Komatipoort, 1340, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -25.4336956,
+                "lng": 31.95380679999994
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "73846dc5aec58bde2b39716382c23f92f24cae70",
+        "name": "Total Komatipoort Motors",
+        "photos": [
+            {
+                "height": 768,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106373960876188936328/photos\">Total Komatipoort Motors</a>"
+                ],
+                "width": 1024
+            }
+        ],
+        "place_id": "ChIJNe1wKFHI5x4Ryf-od-TlJVE",
+        "reference": "CnRrAAAApoOE9pgs6lHjpgr5HK4Ab3RPQweEUshzYwnHLibh2x0nFwmjVuzS7-UazQNmIZ87ccGLaj2bDyjYF6ogk_JJQAX2YdNpoM1UVP34mXfct1hvitJtcqlRuFctkuMAmCQi4JOgzUkqlc53iLHextjAgxIQyaXS4vK3SbxH_DWrJ2D8IBoUcxL1LvHamHfhsO1FW980O0NWjpo",
+        "types": [
+            "gas_station",
+            "car_repair",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": [
+            "Listings by <a href=\"http://www.easyinfo.co.za/\">Easyinfo.co.za</a>"
+        ]
+    },
+    {
+        "formatted_address": "Komatipoort, Komatipoort, 1340, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -25.4478799,
+                "lng": 31.94697999999994
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "0705103f724b84ab1aecc2161c2d8401b91272a7",
+        "name": "SASOL Komatipoort",
+        "opening_hours": {
+            "open_now": false,
+            "weekday_text": []
+        },
+        "photos": [
+            {
+                "height": 1200,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110669281833441756483/photos\">SASOL Komatipoort</a>"
+                ],
+                "width": 1600
+            }
+        ],
+        "place_id": "ChIJm05JAgHJ5x4Rv6ZpvDjOtYY",
+        "reference": "CnRlAAAAUuvgw0vrKu_TsHABi9mx7Zg8EQbJ3WX6Ri5dz5n6JxbU3QaJOaoaB5iIsS6m_kWJvr2fWJNeGAg5WB9RdZBpn_W3UuqIWhyoP8le25eMEx9jizT8Iz2jpkQ41dUYPrQOaU5fXqJ3ahalCrIGZetRVxIQYyNDT8K5L_IQT9CbFdjvLhoUdI2JY7urkdT8DtmJfKZ0xvCssXM",
+        "types": [
+            "gas_station",
+            "convenience_store",
+            "food",
+            "store",
+            "car_repair",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": [
+            "Listings by <a href=\"http://www.easyinfo.co.za/\">Easyinfo.co.za</a>"
+        ]
+    },
+    {
+        "formatted_address": "Maputo, Mozambique",
+        "geometry": {
+            "location": {
+                "lat": -25.8539714,
+                "lng": 32.6226997
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "f39301a2d21e3c9e7ebc70d7ef4f2eeb4ac8b740",
+        "name": "Magoanine",
+        "photos": [
+            {
+                "height": 480,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109866957491920961371/photos\">Charmila Maria</a>"
+                ],
+                "width": 320
+            }
+        ],
+        "place_id": "ChIJ_R65LzKR5h4RK2Tv1xSnCrs",
+        "rating": 3.8,
+        "reference": "CmRdAAAAa459m4TNIYRpQD2UXnIm62IiXWln3LD2hXe-ExGmgQwg7-bt8pbD9eJF4E4SkfbXg1Di4FlaMo8D51h0i1wmse2_5Jc_B1Zgu-Q2CesW7kyPG72hawaGmHNHxTkBN-kGEhANbXT6r-bpSTdhHnXwCCV6GhT3sld2J_YLRa0Bdbsl7Jh8M84fQg",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": [
+            "Listings by <a href=\"http://www.easyinfo.co.za/\">Easyinfo.co.za</a>"
+        ]
+    },
+    {
+        "formatted_address": "Far North, 0956, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -22.76085759999999,
+                "lng": 30.516929600000026
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "c2fc37007c6cde5ec41aed173872abe90d439326",
+        "name": "SASOL",
+        "place_id": "ChIJL11LhEjrxR4RyoRjtO2x1T0",
+        "reference": "CmRYAAAAt-XpcXWmHusi0Etpqy6J0cnL3QIwtLhXJNozVpByX4RuRh39gi62cHmLR1I6IOECqTdNH5_h9VwMxg42c_suWZKxIcMRHfnwec8_f2arZ8TNY5_J_eQrkDwlykXyMk9TEhAvGUjoBldXvUH42ycmS1upGhTl_sUbmQV9bebhE3e2ukCgLvSe-g",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": [
+            "Listings by <a href=\"http://www.easyinfo.co.za/\">Easyinfo.co.za</a>"
+        ]
+    },
+    {
+        "formatted_address": "Main Road, Giyani, 0826, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -23.3107258,
+                "lng": 30.68622800000003
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "5f5ccc5ccee476529b4fc5074ca1b0240f3d8671",
+        "name": "Caltex Giyani",
+        "place_id": "ChIJNegb91FFxB4RtAyy6UdcGrw",
+        "reference": "CnRhAAAA4iHrF8dlR_Wa52L3oOGhmcpRPHGnTXOxBTp8CG2r_oHUtOQM9S5uJzHZP_5K_Q92OS65LJl48-z__PEYwRzxtyyRJSCvswkQeJb3yvFgz2WznpzPJSJATiU_N2PnHE9RJMW0tQzkc6kuSedRCuORUBIQTwsXk011S9a4rbLw12-pPhoU7zrGgQuteB_LC79qyO_KsFCF74g",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": [
+            "Listings by <a href=\"http://www.easyinfo.co.za/\">Easyinfo.co.za</a>"
+        ]
+    },
+    {
+        "formatted_address": "Botha St, Modjadjiskloof, 0835, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -23.695353,
+                "lng": 30.145958800000017
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "a82b073fb9b6160474a197833993424b3a3a33d6",
+        "name": "Trophy Motors",
+        "opening_hours": {
+            "open_now": true,
+            "weekday_text": []
+        },
+        "place_id": "ChIJXxZbV0Onxh4RGXlz0Y67O5w",
+        "reference": "CnRhAAAA1bLN4Pf0c5CT1NsbdPipEsoReqjSFhsPRaa7TY5YddeurtdC21WXuOlA0MRq2apbMHCpSJ6lkJsALD-eHWeeCo1XvmJ0ilWVJVlVJDl2pV70wiHuNqzIudAooBh96CrdH61QRketa7bTq7p-4abpABIQkWsrXIgXnvuLnM257s6EuhoUt_QVJ-3elxs0RDVZCVj1p3ajZTM",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": [
+            "Listings by <a href=\"http://www.easyinfo.co.za/\">Easyinfo.co.za</a>"
+        ]
+    },
+    {
+        "formatted_address": "43 Main Rd, Sabie, 1260, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -25.099385,
+                "lng": 30.778460999999993
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "f51e508c6074d00fb5f917a9fde4643d61426c80",
+        "name": "BP Sabie",
+        "opening_hours": {
+            "open_now": true,
+            "weekday_text": []
+        },
+        "photos": [
+            {
+                "height": 500,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115620081466164736858/photos\">BP Sabie</a>"
+                ],
+                "width": 500
+            }
+        ],
+        "place_id": "ChIJeRFw5qhjwh4RVqj2ZLq200k",
+        "reference": "CmRbAAAAC4ZZFlnWvZ1Smc7g7fnZ70nKpcxDblhXeK9VZ2tlMHnEVTutSv1EIzLBj2pRKAX1RHruVf8Lb9EKN8Qd2AcO9a9N6LHV5jVemmx5nm819fVh8AAL2dlpyL5Q0yWNK193EhBWZL_NIprQNiCdeyVNJzWsGhTENOly-XO1A7HXrrQBuDRl1F9zYg",
+        "types": [
+            "gas_station",
+            "car_repair",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": [
+            "Listings by <a href=\"http://www.easyinfo.co.za/\">Easyinfo.co.za</a>"
+        ]
+    },
+    {
+        "formatted_address": "Giyani Main Rd, Giyani, 0826, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -23.3080078,
+                "lng": 30.687330400000064
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "45364c0a85afd2564e6878cc731448b8641b6e8c",
+        "name": "Total Kulungisa (Pty) Ltd",
+        "photos": [
+            {
+                "height": 768,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115565181453695619139/photos\">Total Kulungisa (Pty) Ltd</a>"
+                ],
+                "width": 1024
+            }
+        ],
+        "place_id": "ChIJX18FNhthxB4RaM70TyDf5dg",
+        "reference": "CnRtAAAA5V_RXrm89H1naJHloCnczYL0gFlP9FRoQO3zwdZXsi97NAfzfFOzYx6YnEB3Mb224QV9H1ArJNviVwhX7-w0mSS2vmsx345fMENMigkLaVVCUWrokE80Tjz9dJroZBh9uKFeGi2SqP6cyvpP-51CYBIQaXoVqUMLlOcDo_dY1phMVRoUKihSCM7HuR5ClCpLyDaqJhmHD54",
+        "types": [
+            "gas_station",
+            "convenience_store",
+            "bakery",
+            "store",
+            "restaurant",
+            "car_repair",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": [
+            "Listings by <a href=\"http://www.easyinfo.co.za/\">Easyinfo.co.za</a>"
+        ]
+    },
+    {
+        "formatted_address": "Claude Wheatley St, Tzaneen, 0850, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -23.8336602,
+                "lng": 30.16340349999996
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "20c61d18ae17cf97e99be73da25b7be12a2b867d",
+        "name": "Sasol",
+        "place_id": "ChIJcTfBIwkCxB4ROWmgQFwXkI4",
+        "reference": "CmRZAAAAl7TEMZDFM0Jgv3RCKDZKTFBfn185m9hsL_xrXVDrrULRLFl3XsIFIdREpsnPgO2PTpApzDzgyOXKdV2Bm1T0vi1RIeqaM8_wW2x5gmtFFHl28TZfeH_sE3JDVokL5HZEEhBOIck6UhngUksKwVLj6XFKGhRDZxwEMezXwurtTj6kGTmhtWm3-A",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": [
+            "Listings by <a href=\"http://www.easyinfo.co.za/\">Easyinfo.co.za</a>"
+        ]
+    },
+    {
+        "formatted_address": "Theo Kleynhans St, White River, 1240, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -25.3253481,
+                "lng": 31.021158199999945
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "25600d42a8b6a0c1537ac15ba27c7873f41031e5",
+        "name": "Caltex",
+        "place_id": "ChIJqWdhZAgx6B4RzXQtZk5NwPQ",
+        "reference": "CmRaAAAAR2Z2Oo_SmMqUg2iJRLeoOvsVgO16eLQqf8WEb4730IhOdXnf1cAGSVMlSfSFGjMGx_4FngWSbaK_0phx0yfds5yzkWYlL5dea-3I6A7v_WCQp2yfopy5yyhIGIkNxftrEhD-udrWjP6A5CZGjoEGFsI6GhTzUhGRaKhrTa7TjUs9GOyEmBYP5Q",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": [
+            "Listings by <a href=\"http://www.easyinfo.co.za/\">Easyinfo.co.za</a>"
+        ]
+    },
+    {
+        "formatted_address": "Thulamahashe Main Rd, 1360, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -24.596142,
+                "lng": 31.06197599999996
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "01d694e8cb143f7055de514528aaea1dc1b76c46",
+        "name": "Total Acornbush Motors",
+        "photos": [
+            {
+                "height": 768,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/118314062791159865820/photos\">Total Acornbush Motors</a>"
+                ],
+                "width": 1024
+            }
+        ],
+        "place_id": "ChIJ722DGwzwwh4Rkc2ffTdlAwg",
+        "reference": "CnRpAAAAD00goXXZ63yHdBwVlADpwDZWdg9Eex8f1WfREFrZBZbcJyIuF0zLKu4VX2-317Fq9o_Gg_HJ7eBPfzkoXGywtNrhSwNCvjaVbGyzGU74pZ2UAKFyVgI1ZtnFUQiKBGSETSp9l88zEVnHqZAIA8oquxIQiMPjAOfw8OqPN1V1xVyNXxoUelrSRxq5V4TV9ctqaGTNsGgCb9E",
+        "types": [
+            "gas_station",
+            "convenience_store",
+            "food",
+            "store",
+            "car_repair",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": [
+            "Listings by <a href=\"http://www.easyinfo.co.za/\">Easyinfo.co.za</a>"
+        ]
+    },
+    {
+        "formatted_address": "Main St, Mpumalanga Province, 1260, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -25.1018176,
+                "lng": 30.778420900000015
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "5289b5d60f80c6d058d377296365ab44de0e0b2c",
+        "name": "Caltex Sabie",
+        "place_id": "ChIJA2M70mp5wh4RcY1ciug5zdQ",
+        "reference": "CmRgAAAAvvgxZLokEQS8cyXDI6yI9QA7dK1QHJBskvRLUE8pjR3gAPVhVI88JAq03mYRuC_i4BVHb4y5gl1Mmjqn4te0cYEm3VNamO_tSMKV1XixhSHpmuoDl5R12NNvhRlDTkpZEhD2eRasfRnZyCkW-DxlUtA_GhS5ldMxGBml-RW4p00NAlSEfZcvoA",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": [
+            "Listings by <a href=\"http://www.easyinfo.co.za/\">Easyinfo.co.za</a>"
+        ]
+    },
+    {
+        "formatted_address": "Cnr Gen Maritz Road & Gen Viljoen St, Bendor, Polokwane, 0699, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -23.892404,
+                "lng": 29.472037699999987
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "88a3135b48f80de68e9bc0563112192e5ae49d00",
+        "name": "Sasol - Bendor",
+        "opening_hours": {
+            "open_now": true,
+            "weekday_text": []
+        },
+        "place_id": "ChIJixMv3M7Zxh4RC0uug5G0WE0",
+        "reference": "CnRhAAAA2t4wzbDp_qaitPAGH__X_3ob59IJzXUA7LyXwCW59lL2q8DEiak7hXD61BxfoFStZMJ1rUuKSOGgkiy4kve7F37yDmcFhsbWax3nOqk3YEw9O0ZuTCxiZQzTZWzD2pPjBXGULKq7FOwxmhw1cdOhwRIQKixqgVb0hT5VxTKlxZjDXBoU4ZUAveQZKk7lVLavD0PbbBC4DC0",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": [
+            "Listings by <a href=\"http://www.easyinfo.co.za/\">Easyinfo.co.za</a>"
+        ]
+    },
+    {
+        "formatted_address": "54 Jao Albassini St, Louis Trichardt, 0920, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -23.0341162,
+                "lng": 29.91913509999995
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "3f9a7d11b4fde9141caaa34d4f69a6e62d4fbdf5",
+        "name": "Safari Caltex",
+        "place_id": "ChIJu3co1Chsxh4R_NoFuUv75H4",
+        "reference": "CmRgAAAAPRDMZ_MxcbkPri3pQbaWsUDKK2idieTv3IjSHna8-bwTTBO-7rVHP8GXgNAKtbNA3xBejCdoJbHTVuAREGNEKMK9UpsykOn0nsp2RkrjWJAFy-cT1XDI5HWdaKe9wAksEhCPovucm4sAhy3aNdf8wT-LGhTLBG95q-XXDmXe28GKAp5UKwmK6g",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": [
+            "Listings by <a href=\"http://www.easyinfo.co.za/\">Easyinfo.co.za</a>"
+        ]
+    },
+    {
+        "formatted_address": "Kerk St, Polokwane, 0699, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -23.9361941,
+                "lng": 29.449644499999977
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "19c0c1ec90b75538fbfbe8234bc092d1a763d6f0",
+        "name": "Sasol - Penina Park",
+        "place_id": "ChIJ1UAGQb3Xxh4RAY94oV6hhCg",
+        "reference": "CnRmAAAAaQiqxkHcqHF-Vc4NNHJag9sf6LHPqfnkLoNxvd2miP7ryNCHy0PoZh9wjXE8RXa31yy7ns-l5y-GzfJ4Sy0uuvONmGkD_OcVqSsYn5n5n5z_my2irhqXs8C7A-PJHiqKYAY8T32AvWK2HS7BFuJcwBIQtVD1aI1gctqUfscFp_mWtBoUeVLIAH79T6QLzYM0DQp6V_yAuxM",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": [
+            "Listings by <a href=\"http://www.easyinfo.co.za/\">Easyinfo.co.za</a>"
+        ]
+    },
+    {
+        "formatted_address": "101 Market St, Polokwane, 0700, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -23.901757,
+                "lng": 29.44973200000004
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "97bda8a0b57ee8f863e8d735d0afdbcb1cf7f518",
+        "name": "BP San Souci",
+        "opening_hours": {
+            "open_now": true,
+            "weekday_text": []
+        },
+        "photos": [
+            {
+                "height": 500,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117788894826474036586/photos\">BP San Souci</a>"
+                ],
+                "width": 500
+            }
+        ],
+        "place_id": "ChIJ7wBm9IpazB0RCTIMO2FzU3Y",
+        "reference": "CmRfAAAAVYX8tIx9TLvk5o0KXI6D3C2bU_3j8myA6J7PcB4uq7PZdurWblhv1OjI8wbj82URoLejI6FueNZxgdkFO3mdBO19IJXnr7tBsopGOk_UVS7sFCp_RrxIEuGM1hjbBXjGEhDQRVTAdU0w_Shx5raivpbEGhTLXRu94NZW7R4lwoZeK-yqtH6hCA",
+        "types": [
+            "gas_station",
+            "car_repair",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": [
+            "Listings by <a href=\"http://www.easyinfo.co.za/\">Easyinfo.co.za</a>"
+        ]
+    },
+    {
+        "formatted_address": "(R101), Landdros Mare St, Polokwane, 0699, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -23.831448,
+                "lng": 29.49070400000005
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "3999badfb29e03701991a1158b7b16da258cc380",
+        "name": "Total Tweefontein",
+        "photos": [
+            {
+                "height": 768,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102629735998145515828/photos\">Total Tweefontein</a>"
+                ],
+                "width": 1024
+            }
+        ],
+        "place_id": "ChIJrVZWfBXZxh4R8oSmkogkpWM",
+        "reference": "CnRkAAAAQzZqZL3rsBD4JfwGlH1NWg3TbGUeqpvIJsU-Xk72ih2Pi6TETpg5EsJYVw0JUKjWuo4jnA1KDIBNEzWSlAR-2BWLzK5aB-kh5rKj_7QwTwi1LNUhsw2ZJxOhmATG6K_jLaS9HUH4wO1Tw-iasaBsJhIQD_vb1speIZUayB684oupTxoUGd8dTvJh83YE-Zz2odyHazSmVA8",
+        "types": [
+            "gas_station",
+            "convenience_store",
+            "bakery",
+            "store",
+            "restaurant",
+            "car_repair",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": [
+            "Listings by <a href=\"http://www.easyinfo.co.za/\">Easyinfo.co.za</a>"
+        ]
+    },
+    {
+        "formatted_address": "N3 Highway, Estcourt, 3310, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -28.9261833,
+                "lng": 29.78016439999999
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "92aff53062a205726a55e6f7e49bfd8740064d98",
+        "name": "Shell - Ultra City Estcourt North",
+        "photos": [
+            {
+                "height": 480,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116316882048392907581/photos\">Tumelo Malekutu</a>"
+                ],
+                "width": 640
+            }
+        ],
+        "place_id": "ChIJN3AWN1TB8x4RjRSv5Jk6Lis",
+        "price_level": 2,
+        "rating": 3.2,
+        "reference": "CoQBdAAAAMC0hs5QvGq1EByWl9RataGh7j5NxlnpI8mpkzsQYjSOXV3Vo5aPeoOhmcpQmme9iy3yvLNsLx8RPE_aGtt28z-LVEAGZnuR2cnc6AuwIzTG9lUMMvTbLahSriIRVR8gafAfB-zqcczv5XK2mATZE1SQ4PxBmp1T_sc1Q44zCLw-EhAPEssTAMGPKxP-q4FXBjbjGhTuZFFS_3GylkqUOkPpweHcVeq56Q",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": [
+            "Listings by <a href=\"http://www.easyinfo.co.za/\">Easyinfo.co.za</a>"
+        ]
+    },
+    {
+        "formatted_address": "280 Kloppers St, North West Province, 0299, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -25.679801,
+                "lng": 27.2165397
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "2dfb52c60dcfdeb387f5390884fa73057b90788a",
+        "name": "Caltex - Park Motors Rustenburg",
+        "place_id": "ChIJAecwwYMJvh4RqigU5wLr5go",
+        "reference": "CoQBcgAAAH11GbduVzMpoJJyCWDmrJWDBb3vFSPcko6vDSfbRCU7bJRulVBnmj5jS8GW_t-U7g2AOM8noOE3cgJzfUPrjVwn4Bgmzm4vb97LSYUd6LXJ6_2qbCZtl_Wcd8WoHIWzAkCVfl6o1qhD3pCMDVNMbLmsV51ieZwPTZOQP65wQAbXEhC0rkBakOKIIVaJQ7Jq_7eWGhSV5yTXfARjNGg_r87UT1jwdnSKww",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": [
+            "Listings by <a href=\"http://www.easyinfo.co.za/\">Easyinfo.co.za</a>"
+        ]
+    },
+    {
+        "formatted_address": "11910 Tau St, Mangaung, 9323, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -29.189422,
+                "lng": 26.22776699999997
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "e30b7b359e800e2b476709be1e15c22595bfea04",
+        "name": "BP Mummy's Motors",
+        "opening_hours": {
+            "open_now": true,
+            "weekday_text": []
+        },
+        "place_id": "ChIJAYcOKQPGjx4RvjEw65pnRyU",
+        "reference": "CnRkAAAAwIU1P9wEqcMOHQWLvs_c9F3btukNS9dLvfOjzC1G6F5wposGqIxIk1l0p_-CwfrcGnbak8Z93NKWwCdCwJ44NJoRJlV1BeImur2UqBRJk1UfRj7zGrG8JyVBi__POYUEZ-bVXHico1Llkv2vcUzZjhIQ4ctePcL8rWYQWs9c8CylgBoU0YWfHC2OpLjRVvzGMKghOF3Rnm8",
+        "types": [
+            "gas_station",
+            "atm",
+            "car_repair",
+            "finance",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": [
+            "Listings by <a href=\"http://www.easyinfo.co.za/\">Easyinfo.co.za</a>"
+        ]
+    },
+    {
+        "formatted_address": "12159 Klipvalley Road, Orlando West, Soweto, Gauteng Province, South Africa 1809, Gauteng Province, 1809, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -29.85972000000001,
+                "lng": 30.997839
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "64a2e07ed5433eee1a9497ccf86fe496b6541c2e",
+        "name": "Caltex Zhut City",
+        "place_id": "ChIJLQRLwPGp9x4RXXjJcJ-slmc",
+        "reference": "CnRjAAAAS2g0NVcl-PNc3MsDJqs6g1gFm7MNW-5yBr6i75hMr9uXB9JLMwlYnTS2J9WcJLTag3Nc0IMrDkzN3TMeMlojhfmx-8IAeT1PFwUMDyc3QppGQ8S_yVyLJalh5XilTOLPgjU8nveqeqBiawe8QflsmRIQwthdzcnWbhvD0exIXHsL3xoUJtuYWTF2OPJtDYg7vcMB6Jb_XnA",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": [
+            "Listings by <a href=\"http://www.easyinfo.co.za/\">Easyinfo.co.za</a>"
+        ]
+    },
+    {
+        "formatted_address": "242 Cliffendale Dr, Pretoria, 0081, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -25.727904,
+                "lng": 28.24434999999994
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "c1e2d1a38d683d53928875f5cf311650e7a5e0cc",
+        "name": "Cyrus Brokers I Petrol Station I For Sale",
+        "opening_hours": {
+            "open_now": true,
+            "weekday_text": []
+        },
+        "photos": [
+            {
+                "height": 1129,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/118407976602162179570/photos\">Cyrus Brokers I Petrol Station I For Sale</a>"
+                ],
+                "width": 1700
+            }
+        ],
+        "place_id": "ChIJf47n0NZhlR4RaXlyiC-nHXQ",
+        "rating": 3.6,
+        "reference": "CoQBfAAAAJNLmVULi0xV9TYF3mlbZ_g_a3sdQCA2ipVl8r14DDyUfgVo26ALTmy35O8LwGS-r-TDyJToWfyNV2qwrfgMcjD7IxppIvW0txmmwxyjRa1ObSwVmLc1QTBMntRmC7SmVE488Ncrklf79YGPWHkCO0nBunQ9VQ7cl5OHCSt1xQMnEhBxsTHWOElHEtWDcB-gFXu4GhTbEQ2gGXMOeTPtpy_6jWqOO6p4MA",
+        "types": [
+            "real_estate_agency",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": [
+            "Listings by <a href=\"http://www.easyinfo.co.za/\">Easyinfo.co.za</a>"
+        ]
+    },
+    {
+        "formatted_address": "Curie Ave, Bloemfontein, 4001, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -29.16978199999999,
+                "lng": 26.17912100000001
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "4342152668816f282a758511e10f104f48cae425",
+        "name": "Total Pellissier",
+        "photos": [
+            {
+                "height": 768,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106165964519155146658/photos\">Total Pellissier</a>"
+                ],
+                "width": 1024
+            }
+        ],
+        "place_id": "ChIJJaAY0VrEjx4RxfBulIpveiY",
+        "reference": "CnRjAAAAXSZu2hVSlpFEYP9o6TCDPrjC0OqCgz6XJCzHx4CHyqDz2fOWoVOWYU_Yh9RJXTTMHdrLjxgPlfaS0fvRd6c4WkzEmaAjFxb5K-7kHBwT_78diZZVxSyVg3KE-wHIoliuy31P76lLvPfYljcBnWyG0BIQHAN_xGp7Swd0IRWz5iB7HBoUCDSD-k2EcCCaXoup56vbZwYzeK0",
+        "types": [
+            "gas_station",
+            "convenience_store",
+            "atm",
+            "cafe",
+            "car_repair",
+            "finance",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": [
+            "Listings by <a href=\"http://www.easyinfo.co.za/\">Easyinfo.co.za</a>"
+        ]
+    },
+    {
+        "formatted_address": "146 Kerk Street, Ellaton, Klerksdorp, North West Province, South Africa 2575, North West Province, 2575, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.9026,
+                "lng": 26.667500000000018
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "ad2c384a82b637accca56404ef446b8d47a16e9c",
+        "name": "Ellaton Motors",
+        "place_id": "ChIJ799M8cXxlh4Rp8XEm9tN_Jg",
+        "reference": "CnRiAAAAIHmPBZbDXIj2Nw0GTcyQH0BCM1hdgMPg0kda-oSlpEntpFr_IZJD1TqdPVUQLMCGWSHedqyRtY5nHukNvv3tYZ73Gxu5z2M9HFiUbND3CNuu2WDIE3IqwCM2-HfxhS0OjxsGLh7hZCnWklsjaeX_JhIQ8FAFcU8ZkVR3pNwzDXiH4RoUobeyjYjpgAWsfiLZyA-9Vb-ocgo",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": [
+            "Listings by <a href=\"http://www.easyinfo.co.za/\">Easyinfo.co.za</a>"
+        ]
+    },
+    {
+        "formatted_address": "South Africa, 10 Hobart Rd, Sandton, 2191, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.0777548,
+                "lng": 28.02664279999999
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "db2aa15b1efb5b62f80f967b5b3ec345ccad5129",
+        "name": "Oryx Energies",
+        "place_id": "ChIJ8-Ao2HtzlR4Ro-0tZFNyW34",
+        "reference": "CmRgAAAAcGTdSAZWfQHVpdi59ox-68BOejbgrH24PFXDibl5Xp5rossNCNd-jl6Kb9RwT-C04APrCdqF_BHj5PdnW0zpbJgvIvZ5L0-osQlw7R2kiVPZi5c6orAtzi8CKV5ZmNA1EhAgDhTN8KTSXBCB9P23p48sGhR3-nR9Yej0tnBaFE3BMvpyQBPmXA",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": [
+            "Listings by <a href=\"http://www.easyinfo.co.za/\">Easyinfo.co.za</a>"
+        ]
+    },
+    {
+        "formatted_address": "Boschetto Ave, Harrismith, 9880, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -28.2554468,
+                "lng": 29.115669600000047
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+        "id": "68dc597e9b1e7153c8a2d7feea75089a9ee2f484",
+        "name": "Engen - Bergview 1 Stop",
+        "place_id": "ChIJ1WYWZ_9h7R4RQ9uHDkbjTwc",
+        "rating": 4,
+        "reference": "CnRqAAAAUInuCKRkZB0wdemHZLWhGxJtLaD6ydCzOB69dRjPZWCAWOqR1R47PBP6lwxypMl_KDLoVxRSz36XaZflgBR_lNOSZmWlw4vbBaBhRPDmRD3LrMWNrWwrwScBdtj3tGpaeggMD3iMikFucGaa5esvQxIQvL7wJgibJIzw60tOSga0DBoUlJktNaERKXYSCtyc8Cbg-nCEAIs",
+        "types": [
+            "convenience_store",
+            "food",
+            "store",
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": [
+            "Listings by <a href=\"http://www.easyinfo.co.za/\">Easyinfo.co.za</a>"
+        ]
+    },
+    {
+        "formatted_address": "Meyerton, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.64469,
+                "lng": 27.970048700000007
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "130d725f6f26d3ab78aa0c0ca8fffe221d79d2b0",
+        "name": "Sasol",
+        "place_id": "ChIJGcS44Sr4lB4R2NHDrVzoXqw",
+        "reference": "CmRZAAAA-eQxpkNUkaVlqkelqwAX52jGmCgghvb2CbeoPqSE157Ms4m43MugppezlTj3XH4HHsrklr2xTt0BmvcyqCKN-H0m1UkbJjwbAKqRtQhYf2RTFY0kYWoJIT8tFziPnR5mEhAkTe-X1Vh6s5obDGd23g0DGhQWWGajbU6P_jaKkD8xe12He69XXg",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": [
+            "Listings by <a href=\"http://www.easyinfo.co.za/\">Easyinfo.co.za</a>"
+        ]
+    },
+    {
+        "formatted_address": "136 North Rand Rd, Boksburg, 1459, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.179251,
+                "lng": 28.240844700000025
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "fad54bf796c9792175cd1030e5c58fadd884aa9d",
+        "name": "Shell - The City Service Station",
+        "place_id": "ChIJl930H18WlR4Rbu22zoubyM0",
+        "price_level": 2,
+        "reference": "CoQBdAAAAHQna27K8NxiieB3dLDcpN2mw3nnlNX191lxUQ-h7RjFIPquUtwvIwUER9wGCtpd2bGp26FzzxgxYvndQhEA2mtaA7cT2uTXzqJc65uYTTb7Oa1xYeF-8wIyLhXhbkUkyc-1qUBKt46KWQpIxo9X_Atl5t8OpjvXQjy7yXX-f7XAEhDnwHiYHgZ0Xwi1yZTcTrS7GhToNdDXR2R7xe32Q-fQqHpTV0iH4A",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": [
+            "Listings by <a href=\"http://www.easyinfo.co.za/\">Easyinfo.co.za</a>"
+        ]
+    },
+    {
+        "formatted_address": "Cnr Dirk Opperman and Bankovs Boulevard, Bloemfontein, 9330, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -29.1012115,
+                "lng": 26.159386100000006
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "b2cf54a31866b99a6d20aaee5a202c3a2ad14963",
+        "name": "Langenhoven Motors",
+        "place_id": "ChIJ53RIATbbjx4RCCaIxMk73sE",
+        "reference": "CnRmAAAAhqZ2DWaIDc29g5G7JFyw_0Yxh48-p7txM22kQvZRbWRwOdlq89jrf4QLTz35dSznKY5oLqnzPZq3ATCJfe_HNRXQGouSa7LnRJfO7FMCLxDRpJ0iaQ6IoSeATegEy5g9tkSyoXWiLh232NvllXhgOBIQLHD7kpQxgA6h_MJnqzFV6xoUgQbi6CYNEmEwKk8PKh3pT8SETqY",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": [
+            "Listings by <a href=\"http://www.easyinfo.co.za/\">Easyinfo.co.za</a>"
+        ]
+    },
+    {
+        "formatted_address": "N7 National Road, Citrusdal, Western Cape Province, South Africa 7340, Western Cape Province, 7340, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -32.561377,
+                "lng": 18.986347000000023
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "15b110474aef84d10c4b2960ec4764d4154ec069",
+        "name": "Sonop Motors",
+        "place_id": "ChIJq6qqqrPoMhwRSCr1mZBM24s",
+        "reference": "CmRgAAAAZF7pHA0nmeoYIDM4ZeUqx5rydF7uPSbOKEYTV9YCW9TBpQCKilFfLKUsSc-_3JKIANjUA-qbSWf5fewC-WHshvqnQZCwC1EG-UftEhAvtlVGdRmavIXTXMHc_nKwmTNoEhDsALjPilM9oXsloYXYoKL6GhTfqQ6PUbBSPdBBNVuZklpE66YzIw",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": [
+            "Listings by <a href=\"http://www.easyinfo.co.za/\">Easyinfo.co.za</a>"
+        ]
+    },
+    {
+        "formatted_address": "276 Oak Ave, Randburg, 2194, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.0977087,
+                "lng": 28.001385000000028
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "874cbe983487091de3a09ca7d4331c3f60a9868f",
+        "name": "Fuel Retailers Assn",
+        "place_id": "ChIJkWKbdJZ0lR4RYy9veypQa74",
+        "reference": "CnRnAAAAArEqia5LMAbQbbZ64nlR9ub-TOPMfKItK5boQtuDPxSNi_ol87dlM_7znt7cWF22t1U9n0NKljAVOIiEgUs8ed_UTwcILYS7sglzHWNUmDwGWNmo31Myw9KalUXxTtIu-HooCRdJhB9a5rm7VVSYvBIQ7lYulWfvCaBJVcdS4sceYRoUbqif30UL3mHwRH927HjUmOVQ8x8",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": [
+            "Listings by <a href=\"http://www.easyinfo.co.za/\">Easyinfo.co.za</a>"
+        ]
+    },
+    {
+        "formatted_address": "20 Paradise Rd, Newlands, Cape Town, 7700, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -33.979878,
+                "lng": 18.453312900000014
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "108eb0c5ba2cd717d300491b94faf396d1e58859",
+        "name": "Shell - Paradise Place",
+        "place_id": "ChIJUzeHOcpCzB0RuDPXPSq_NZc",
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "CnRqAAAA3mWrFHb9DQMmyr6jFuAffI7PheXcGj8Pzqk74qHym3X1WK3BiweLjJiQKirEnSacMEqwBQt4A0WmRfCwoDSKm4hXEYz3u-DsepxQK1y5kgIyJp1wDedB4-_zIAhNObfnIG9GdHYuxfdrMuOfsobB5RIQvi-bfusy3DIYb6c9yujFoRoUjnOlRS7WEg6iAuoIaOkcxy867is",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": [
+            "Listings by <a href=\"http://www.easyinfo.co.za/\">Easyinfo.co.za</a>"
+        ]
+    },
+    {
+        "formatted_address": "Hoofweg, Bitterfontein, Free State Province, South Africa 8200, Free State Province, 8200, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -27.394517,
+                "lng": 26.61982999999998
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "e011def7de1eae600410441c8986e771206a8878",
+        "name": "Bitterfontein Vulstasie",
+        "place_id": "ChIJV-Ro4I_Nlh4RfN4LL2ErJug",
+        "reference": "CnRrAAAA_z2y2B-UP6irCe1TcFq6xZ67MWk3pY1Us48zB7JiA7uZy2H8yeGLid9XryYhyutQW3hTQBtcFdJfOq9HPSWE-0FUF4cCBp4tB2TeK5ptwOFhg-wc3cTfPGH1zGp20dr-YnhIilXgzN-MqPGrGwHkFhIQM6q_7FMr1ni0eHi7cSoiGRoU1vGNzseOihrT-fQWmBS0rsv9SGM",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": [
+            "Listings by <a href=\"http://www.easyinfo.co.za/\">Easyinfo.co.za</a>"
+        ]
+    },
+    {
+        "formatted_address": "N1 Western Bypass & Kenneth Kaunda Street, Noordstat, Bloemfontein, 9301, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -29.0407807,
+                "lng": 26.22328170000003
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "43bdaa184e4c8a6449b395ef0d162b523f72a471",
+        "name": "Shell - Ultra City Pitstop",
+        "photos": [
+            {
+                "height": 1224,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105066397016627406313/photos\">Ron Neeleman</a>"
+                ],
+                "width": 1632
+            }
+        ],
+        "place_id": "ChIJFexv5FfEjx4Ro-v-5QtxESE",
+        "price_level": 2,
+        "reference": "CnRtAAAAmEVn-E75YyvQQmcHNOYYuuX37i3fxGZfRaZ8LWz7_nyT_a9aEYdGG9GYIwV3MHWsgL4WL2lyHdZPjVEhQcUunn0fgD87Th2j6G2_fhg8BydoHxgC1kE4_X6scOJsq8er-mu2BfHYDKigr5iuT2YN-hIQY48mT5psv-gzqH5iFzL0bxoUSwF8UkIk5dOaq5JTnQ6U4M6_poQ",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": [
+            "Listings by <a href=\"http://www.easyinfo.co.za/\">Easyinfo.co.za</a>"
+        ]
+    },
+    {
+        "formatted_address": "Bridge Street, Jansenville, Eastern Cape Province, South Africa 6265, Eastern Cape Province, 6265, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -32.947831,
+                "lng": 24.666688000000022
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "70cbac556eca8b95fbaf01c5f33fe92c9ae90f05",
+        "name": "Noorsveld Delta",
+        "place_id": "ChIJrwxfIJ5DfB4Ru0TB67-XpjM",
+        "reference": "CnRiAAAA0u6RFwAeaMBnmLW0LeXTMI3601AMisdGUp7AMht1GWaszU9Xfs4qrFjboaDGUTqfWwmvGHfc7M0amjft98Rn2RXkwU4YhX9Vand9Iz0aJ7lMAjkJtXR1mVxtZ6gyIAzupYy7cypo_8n72skFsug5lRIQrMYAlQaCeMaC3VRwJ2cM_xoUJrp5ikjItK2s-YcNT6nhB7NWq5A",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": [
+            "Listings by <a href=\"http://www.easyinfo.co.za/\">Easyinfo.co.za</a>"
+        ]
+    },
+    {
+        "formatted_address": "N4 Highway, Nelspruit, 1201, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -25.4564361,
+                "lng": 30.937403399999994
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "807d943dd72fbb8e660a382d44f7a25da7fcc455",
+        "name": "Shell fuel",
+        "place_id": "ChIJnzXgPXRK6B4R0QTAb99KMTo",
+        "price_level": 2,
+        "reference": "CmRdAAAAJHq52lfKDHidjmYZr7WeLxqsZa14e7V7UsTYS75McVSrdMR2uNtEbFpdwcOYv5ddprhxUO8smd_Ntil4kupz_GSKA2js2fZTwaYK9wqzlW5tJV7w-NFv62eD0qpU2rZaEhABKenVg8fcX7P9WDkEelSzGhTNhBmHLhH5V2wljgsSzmKcRS15wQ",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": [
+            "Listings by <a href=\"http://www.easyinfo.co.za/\">Easyinfo.co.za</a>"
+        ]
+    },
+    {
+        "formatted_address": "N1 (North) Highway, Polokwane, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -23.92693,
+                "lng": 29.429210000000012
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "f36bffd9e54d948b44c1c0695878e57685f0ae3a",
+        "name": "Shell - Ultra City Polokwane",
+        "place_id": "ChIJFWSipvrXxh4ReKCXIz6cLMI",
+        "reference": "CnRwAAAAmpl0wSHYhUJmn0R3Vvaw8vq42vhfUsRo7lrbHQW6Ap7vld_Ay6MfaLCs211MblTVX6vgFyzDRPCdZQMdJAUp1u99biUy8XXJjWwqV9QBjIUDufvtx31-IQE907Z8WJF9xfQtTsDBuKZCEplnAkNXhBIQxD08Nuu9Pre3fLEZIdrkchoUoJ-cdWEnGyDY9Fv-wkgbn9geU_4",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": [
+            "Listings by <a href=\"http://www.easyinfo.co.za/\">Easyinfo.co.za</a>"
+        ]
+    },
+    {
+        "address_components": [
+            {
+                "long_name": "Cuamba",
+                "short_name": "Cuamba",
+                "types": [
+                    "locality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Cuamba",
+                "short_name": "Cuamba",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Niassa",
+                "short_name": "Niassa",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Mozambique",
+                "short_name": "MZ",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            }
+        ],
+        "adr_address": "<span class=\"locality\">Cuamba</span>, <span class=\"country-name\">Mozambique</span>",
+        "formatted_address": "Cuamba, Mozambique",
+        "geometry": {
+            "location": {
+                "lat": -14.8004739,
+                "lng": 36.54049520000001
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "dc6f42a0195e6fa91164bd4e8583278dc7c121d0",
+        "name": "Gas Station",
+        "place_id": "ChIJRXXxtG-D2xgR59yEk9gMLIE",
+        "reference": "CmRfAAAAml65iCgrN5t9fBIiRC-zXOSF_QobbcmEnMC5UsrK9Mpjf5rH5NlVNroUz9WK7BQdYVa1wxy39el3Fm1ZFfbjmrKRinOppgqq7Ehy98dCQRZas77YrN7ReM9UaaieDRpCEhASfyolKrn4J98C7l59yYgLGhSkY1Hqv-6diSykvRZyIXRPDyewcw",
+        "reviews": [
+            {
+                "aspects": [
+                    {
+                        "rating": 2,
+                        "type": "overall"
+                    }
+                ],
+                "author_name": "Fernando Sulumundine",
+                "author_url": "https://plus.google.com/101115101634522231498",
+                "language": "pt-PT",
+                "profile_photo_url": "//lh4.googleusercontent.com/-s63v3cjKzAA/AAAAAAAAAAI/AAAAAAAAAMY/KDWKkgrwDiM/photo.jpg",
+                "rating": 4,
+                "text": "",
+                "time": 1451391921
+            }
+        ],
+        "scope": "GOOGLE",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "url": "https://maps.google.com/?cid=9307828654195399911",
+        "user_ratings_total": 1,
+        "utc_offset": 120,
+        "vicinity": "Cuamba",
+        "html_attributions": []
+    },
+    {
+        "address_components": [
+            {
+                "long_name": "Avenue Samora Machel",
+                "short_name": "Ave Samora Machel",
+                "types": [
+                    "route"
+                ]
+            },
+            {
+                "long_name": "Quelimane",
+                "short_name": "Quelimane",
+                "types": [
+                    "locality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Quelimane",
+                "short_name": "Quelimane",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Zambezia",
+                "short_name": "Zambezia",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Mozambique",
+                "short_name": "MZ",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            }
+        ],
+        "adr_address": "<span class=\"street-address\">Ave Samora Machel</span>, <span class=\"locality\">Quelimane</span>, <span class=\"country-name\">Mozambique</span>",
+        "formatted_address": "Ave Samora Machel, Quelimane, Mozambique",
+        "geometry": {
+            "location": {
+                "lat": -17.8780272,
+                "lng": 36.8815065
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "77bcf82411ea7016e02235a62a95897e968430f3",
+        "name": "Gas Station",
+        "place_id": "ChIJXY4jNfDz0hgROYXgBq-z8bg",
+        "reference": "CmRfAAAAISc_N5UCXuUc75iI44yi5hcR8JWwN6u5OARHDFtKHHgNu0fmEu0AhpI5Sz9N0ssEj6mCmEuSeLq1ZlawMrR8-_HnDCbyODsqN3aaugh0iDqVwm2diXsQXG7g6utBwNB7EhAyHzVfun0Q7pm7IeeilZA_GhQmvUAAo1WWtmygTpB70TN7clVg5A",
+        "scope": "GOOGLE",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "url": "https://maps.google.com/?cid=13326630336682034489",
+        "utc_offset": 120,
+        "vicinity": "Avenue Samora Machel, Quelimane",
+        "html_attributions": []
+    },
+    {
+        "address_components": [
+            {
+                "long_name": "Avenue 7 de Setembro",
+                "short_name": "Ave 7 de Setembro",
+                "types": [
+                    "route"
+                ]
+            },
+            {
+                "long_name": "Quelimane",
+                "short_name": "Quelimane",
+                "types": [
+                    "locality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Quelimane",
+                "short_name": "Quelimane",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Zambezia",
+                "short_name": "Zambezia",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Mozambique",
+                "short_name": "MZ",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            }
+        ],
+        "adr_address": "<span class=\"street-address\">Ave 7 de Setembro</span>, <span class=\"locality\">Quelimane</span>, <span class=\"country-name\">Mozambique</span>",
+        "formatted_address": "Ave 7 de Setembro, Quelimane, Mozambique",
+        "geometry": {
+            "location": {
+                "lat": -17.8771171,
+                "lng": 36.89072169999997
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "ce58b058e8df9107e0cd714279422f9ddfd15293",
+        "name": "Gas Station",
+        "place_id": "ChIJT0jSoZLz0hgRFAXbW-ronXM",
+        "reference": "CmReAAAAjYvhWTjoiAoa9Sy-gD1ygrCUmK-yXpMD1r6WNxReeIKbW4cRzCcHQ8uZ3IITgl8P2zmpmJcpYco5JI1pybXM6VptcpJHXUPb4zeF01JCK65Ife_3mL4A4y4OmVvqmiL0EhABy_ZdlRi3J9JZL7Uy8k1qGhS6cZwq-aBlo0jVWeWipeDVWtgGbQ",
+        "reviews": [
+            {
+                "aspects": [
+                    {
+                        "rating": 3,
+                        "type": "overall"
+                    }
+                ],
+                "author_name": "Muhammad Ali Virani",
+                "author_url": "https://plus.google.com/113700192008971981738",
+                "language": "en",
+                "rating": 5,
+                "text": "",
+                "time": 1423740397
+            },
+            {
+                "aspects": [
+                    {
+                        "rating": 2,
+                        "type": "overall"
+                    }
+                ],
+                "author_name": "Rocha Martins Oliveira",
+                "author_url": "https://plus.google.com/108470467511905106920",
+                "language": "pt-PT",
+                "profile_photo_url": "//lh5.googleusercontent.com/-BSh_cHnJF6g/AAAAAAAAAAI/AAAAAAAAAA8/imOKJy1Bxeo/photo.jpg",
+                "rating": 4,
+                "text": "",
+                "time": 1404327069
+            },
+            {
+                "aspects": [
+                    {
+                        "rating": 1,
+                        "type": "overall"
+                    }
+                ],
+                "author_name": "herminio chuma",
+                "author_url": "https://plus.google.com/110501850146410285607",
+                "language": "pt-BR",
+                "profile_photo_url": "//lh6.googleusercontent.com/-Qv3pHB413kk/AAAAAAAAAAI/AAAAAAAADrY/rgqR6npoHZA/photo.jpg",
+                "rating": 3,
+                "text": "",
+                "time": 1379085711
+            }
+        ],
+        "scope": "GOOGLE",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "url": "https://maps.google.com/?cid=8331070978966357268",
+        "user_ratings_total": 3,
+        "utc_offset": 120,
+        "vicinity": "Avenue 7 de Setembro, Quelimane",
+        "html_attributions": []
+    },
+    {
+        "address_components": [
+            {
+                "long_name": "Avenida da Liberdade",
+                "short_name": "Av. da Liberdade",
+                "types": [
+                    "route"
+                ]
+            },
+            {
+                "long_name": "Tete",
+                "short_name": "Tete",
+                "types": [
+                    "locality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Tete",
+                "short_name": "Tete",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Tete",
+                "short_name": "Tete",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Mozambique",
+                "short_name": "MZ",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            }
+        ],
+        "adr_address": "<span class=\"street-address\">Av. da Liberdade</span>, <span class=\"locality\">Tete</span>, <span class=\"country-name\">Mozambique</span>",
+        "formatted_address": "Av. da Liberdade, Tete, Mozambique",
+        "geometry": {
+            "location": {
+                "lat": -16.1568757,
+                "lng": 33.58965260000002
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "39d8d3869f758971e897260d9a5d1c7605dfd573",
+        "name": "Gas Station",
+        "place_id": "ChIJY0JO_Y1HJhkRRfx5I33LWF4",
+        "reference": "CmReAAAApfSg_VmO1ZVCvx1qgcuEVNSOSoXWAQXP-_s49QcCcaHOM9cROORCspBHHq1dOlLfYke-iRUtf4oG4apGz_ufCmrg5Z2juDLxlTFwByz5y9Gh_sWUbD8rpFuEPQtbT748EhD8qfaNS7TTd890TgYMCE-VGhTuwzSNqFNv3neWBTbf2ZPWYH3hqA",
+        "scope": "GOOGLE",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "url": "https://maps.google.com/?cid=6798407375842311237",
+        "utc_offset": 120,
+        "vicinity": "Avenida da Liberdade, Tete",
+        "html_attributions": []
+    },
+    {
+        "address_components": [
+            {
+                "long_name": "Jangamo",
+                "short_name": "Jangamo",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Inhambane",
+                "short_name": "Inhambane",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Mozambique",
+                "short_name": "MZ",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            }
+        ],
+        "adr_address": "Jangamo, <span class=\"country-name\">Mozambique</span>",
+        "formatted_address": "Jangamo, Mozambique",
+        "geometry": {
+            "location": {
+                "lat": -24.05104439999999,
+                "lng": 35.47780130000001
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "9edca63822da6040c37b9f960c36014a1b1c8089",
+        "name": "Gas Station",
+        "place_id": "ChIJF0vG8NVjHx8R0aVwWa5sqV4",
+        "reference": "CmReAAAAsHM0zZsY5qvEIktCIsNPmSNFuDX50pYgHHby6am4XalxI6hp7EF_qPIWzaMnLdOpdVRQ0ai9tsUEXot135ZRgEA-2o3nvd9OBjIXM6Sb31RZ5h1ByLiNOk5SXEP-ERdEEhAKU5xcd6G2HSlPp3czUjM7GhQz6mC2Q9THjm8RwjyGIHJA_z6xjg",
+        "scope": "GOOGLE",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "url": "https://maps.google.com/?cid=6821102606709990865",
+        "utc_offset": 120,
+        "vicinity": "",
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Av. 24 de Julho, Maputo, Mozambique",
+        "geometry": {
+            "location": {
+                "lat": -25.9616042,
+                "lng": 32.56596030000003
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "bd0a4bd9e48cdbff70db07a263190d51b8d185bc",
+        "name": "Fuel Station BP",
+        "opening_hours": {
+            "open_now": true,
+            "weekday_text": []
+        },
+        "photos": [
+            {
+                "height": 576,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117986077238638507431/photos\">Ahmed RAZA786 Attari</a>"
+                ],
+                "width": 1024
+            }
+        ],
+        "place_id": "ChIJpUe60OOa5h4R8JDOjTjV8P4",
+        "reference": "CnRjAAAAccBkU-px_0aq-xHA7vvTgDYvjgklIu9wlgwEvqCfGieY5GBkPxhQuGEEmybxl-P9raAC6tkcaEpofWscZm37HetDONJiwFh7-Z7aEmR01uxtLF1uJzt414m3yW2V5BmQ2v5vAPEKSEFyO2uz7kOQEhIQqQTKkDDKfC-amAf3YrsnZhoUVW2marvmAxjM703nr6EIqStAs6E",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Maxaquene C, Maputo, Mozambique",
+        "geometry": {
+            "location": {
+                "lat": -25.952411,
+                "lng": 32.588807299999985
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "77e43a91f381d16ef0c79d30aa56bf0e71335868",
+        "name": "Galp",
+        "photos": [
+            {
+                "height": 1632,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106611996898443549084/photos\">Luis Jeronimo</a>"
+                ],
+                "width": 1224
+            }
+        ],
+        "place_id": "ChIJQ--WN1Ga5h4R83QDhyPowx0",
+        "reference": "CmRXAAAAuShnEtaXiSifpdhYd__PptulAWpvmoH_4F5rUVhLNl6WXAFA4rsYwLsLEevcSjJljSBP7n4wGZUE0dOnTyHr0Vjv3AmdfGV7mGmprsR3bmQv8Df8xqcGLtQegAt5oaLzEhBzjsak8VMz6hH5-Q26rX4RGhTCe2ZnA4PGELgLoQdXf6p2OkKuPA",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Av. Karl Marx, Maputo, Mozambique",
+        "geometry": {
+            "location": {
+                "lat": -25.969996,
+                "lng": 32.57092239999997
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "12bb1586f991df1ee4c27d8997b4151a631a26e9",
+        "name": "Petromoc",
+        "place_id": "ChIJZYgzShub5h4RDXB9wdzcOnw",
+        "rating": 4,
+        "reference": "CmRbAAAA8HbzZ8IfmowL7TRmqFcz3eBLjOvnHE5h9uz1TybdfuUffyvHak1NzD1-MDnICXjgbaeaJOFwHC8zc7_tlf6GiWBYbSMmwxmyxAuUzvGs5X3WaIQfn9myzjXy8-IkLUwYEhAxC0KkOdITzFDVY6dtdxwFGhSvm62irW44jmRb-OoT1K_eMisJ2w",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Maputo, Mozambique",
+        "geometry": {
+            "location": {
+                "lat": -25.8763109,
+                "lng": 32.56579399999998
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "62fe0cb4247c9b6c7d18c3b220cb5419227aadf9",
+        "name": "Puma",
+        "place_id": "ChIJEWRs97OR5h4RJxIYqeDIGN4",
+        "reference": "CmRYAAAAGyES6rUHtvxfpvBz3axTiHxyETU5YdbRMsl-d4GFA5X4w9r8yqqzeK4QMhbiYRevTjGUCCfQs5mH6U6lpHeixrsfGDISzMHrmbuBgvi7fYW-8I-Ssx06vXx-wOyXgAtOEhAkfmuO46igpQAKEWG0aS4_GhSTTapH8k_6PKnqWXcP5xphpKGUCA",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Av. 25 de Setembro, Maputo, Mozambique",
+        "geometry": {
+            "location": {
+                "lat": -25.977258,
+                "lng": 32.57902109999998
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "89a89204976a9233ef4aaed6726bed7c0cf9201b",
+        "name": "Total",
+        "place_id": "ChIJb6uqYgmb5h4ReWQ8JgOchJo",
+        "reference": "CmRZAAAAkf6XeHkDiYPfGmcgqrRy7QkhcnqIRiy0QVIxuBTcY_RfvfNYXTDzyli_CKyW4W53Y9HCPOmxY2dTNHtOICKnWag1IZHIG-X0bWDpcYNkCWODc4WO87ZBRm_B1C2j9pqbEhDV1ZHkcC8Xdw7x-7f66zBjGhQ2ocODs80OeFW_c4Fxm-IhZVgU1g",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "R. Américo Tamele, Maputo, Mozambique",
+        "geometry": {
+            "location": {
+                "lat": -25.94900389999999,
+                "lng": 32.57009870000002
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "fb5c978fc0c4b6a412059908c1f86563695c1863",
+        "name": "Pumaa",
+        "place_id": "ChIJw-iTE-6a5h4ROuSRaI-uPNg",
+        "reference": "CmRZAAAAZYozSEwwd9FkAvK5rMq3EWXJF2ImVNLcfybEJ-mbbHQlBsMMObqTcAjt2gTJEsoKtIHP3TSLxBSz11V8QyLT2a9I3qoXbL4QBLvCKK1b-kKTJ7PANpWua_z5HcNT1U1OEhDhsOyo3ghdptA_Nq5N_u4tGhRwmdPGg4bjYwd0Q5kZjNY5CH699A",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Maputo, Mozambique",
+        "geometry": {
+            "location": {
+                "lat": -25.8539714,
+                "lng": 32.6226997
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "f39301a2d21e3c9e7ebc70d7ef4f2eeb4ac8b740",
+        "name": "Magoanine",
+        "photos": [
+            {
+                "height": 480,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109866957491920961371/photos\">Charmila Maria</a>"
+                ],
+                "width": 320
+            }
+        ],
+        "place_id": "ChIJ_R65LzKR5h4RK2Tv1xSnCrs",
+        "rating": 3.8,
+        "reference": "CmRdAAAAAy1r-ru9oz-f_bstv9LfmaRfZofeLracewj8vOiVlEk_uH0SwXbjCM4S0L1R04izKd0NkHZSWQ-87fGoElDXIO5uRPj3eJ9TltmpCDCJuTLbMlQe4srwwDMCvyzZsWm9EhDkWtAQteKxedHf8XAplzrqGhSPgldnZ9-BByeibScwm1SVRFE_zg",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Avenida de Mocambique, Maputo, Mozambique",
+        "geometry": {
+            "location": {
+                "lat": -25.8448472,
+                "lng": 32.567918299999974
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "66227a2526fb8e1622eefc83030155238d09439a",
+        "name": "Sasol",
+        "photos": [
+            {
+                "height": 960,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115269097939631757144/photos\">Frede Matavele</a>"
+                ],
+                "width": 1280
+            }
+        ],
+        "place_id": "ChIJiwFi546R5h4RxLxmB_ms3us",
+        "rating": 4.3,
+        "reference": "CmRZAAAA4P2PX08aH3RiRGSenkgDfM4WJCd5xTGmc45gwxl_fESBW3CQAkGB-i8IjKPfmU-oiPS-ggWIpOnFrJqjdTvtdZ7jh56zO4zdBJwjw7jkTl8VVQu-6ZOCDvMOZBy6PIOPEhDGzILHUh32MNOgIspUi-qQGhQnM1sK0ApbZmugwahEvruYfJ8t2Q",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Avenida Karl Marx, Maputo, Mozambique",
+        "geometry": {
+            "location": {
+                "lat": -25.9622846,
+                "lng": 32.57675040000004
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "a5b25eff9784ed74084a5996bf09ee447b6f9c63",
+        "name": "Total",
+        "place_id": "ChIJQT1SAAKb5h4RdVM4JPWIDBI",
+        "reference": "CmRYAAAAnQnwZgsYDuGc3ORbHzpoju2MLv55qaH3HtxYSC4MTHnsin7VoPRU0gzvQ_crADqI5QVvslaxyI0nu7BpqK2rVoPwG2-WdfvjRCrLul2U05pCAk6coZORDzP7as907psWEhCXlzJ2xmcZUWE---xJz4ImGhS_0Nl-PONr0QyrRZp8sr3xhCDwLg",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Expresso, Liberdade, Mozambique",
+        "geometry": {
+            "location": {
+                "lat": -25.9074767,
+                "lng": 32.470318099999986
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "d1653d640e84f97b9b597130cffabdbd909b3f77",
+        "name": "Galp",
+        "opening_hours": {
+            "open_now": false,
+            "weekday_text": []
+        },
+        "place_id": "ChIJPykldh-P5h4Rmsg9-uwUuuQ",
+        "reference": "CmRYAAAAkTh8cvk1f70StA6eOkyVbZiEWcWNiZJJwuuKzbVuu2H0ms_QvQOmRiWh081AqR9aZ7yEeaUhPRYlR863CcqH3uplY8pdU9GfRQghNVia1PyjiIzs10I1O-hoNAxdh9QxEhCaA70rDVbMpoIYhNSb3UZdGhRECoq2creVb2VVkTeBtiM9ej6ilQ",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Chimoio, Mozambique",
+        "geometry": {
+            "location": {
+                "lat": -19.1177901,
+                "lng": 33.47932760000003
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "76b16b4ec2b4c3a86b14b64e0eb2b21b5aebad23",
+        "name": "Shell",
+        "place_id": "ChIJHeiXjqs1KxkRcds2xC-g9ck",
+        "reference": "CmRZAAAA2IFt_O6Zun93mxFcR9pzLklath1ZVjp9QLYDUhtQYceIuxcg_udOR7tgYq8rpZynz_FHW8g6Ap9_5AWGk3I24BORJUHvtWNhtUAZaR8--6pw76Rr7QLntRTA0HSsKmDLEhDx4WnddfcA5570hRPXYJctGhSSidEKsAGNugIN-A02Q3L08tQmsw",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Rua Dr Americo Boavida, Chimoio, Mozambique",
+        "geometry": {
+            "location": {
+                "lat": -19.1136449,
+                "lng": 33.480791700000054
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "dedc9044240a6292d3fa1155bb7f726758243b30",
+        "name": "GALP",
+        "place_id": "ChIJObHVEa01KxkRsDGhGOGXQT8",
+        "reference": "CmRXAAAAOb-7FwlGlVav8gdRT70mH1dCYU8b_2qrs1QryULRpWEiBPGrf-IltuRQhbN_fnpgRE5NvSVI6Wst6COMaJxmtyLeJ6WOzXRb4rdzVWgp4G4ikawLd3fxVNruIvpKQp82EhAy39CXuYGZqXOBNTypj9jeGhQOWjD2Tpv5yCKvwPU9vVj0QlPXcA",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Rua Dr Araujo de la Cerda, Chimoio, Mozambique",
+        "geometry": {
+            "location": {
+                "lat": -19.1097279,
+                "lng": 33.476369699999964
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "65ed13dd636f3848496d026e996f5f311312e64b",
+        "name": "Engen",
+        "place_id": "ChIJR42dc7E1KxkRHO274wpDS_M",
+        "reference": "CmRZAAAAsJ4AzYwp7nY3e36c39TVl3wZFJcECRGBCkOEpFVXP94hpjVpz9utZ_CT-6Kp4kHMeK5F7zxvcUmUU3zlD1tc9-GqdJDQaavDroeLdma0gFRA4aUvseYMXUrThZSx-61IEhB5UnaeZ6KlJkEv-iDrnePrGhQiimtHTHYwedEx_UJ-GoNMlI1zMg",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "EN 6, Chimoio, Mozambique",
+        "geometry": {
+            "location": {
+                "lat": -19.1175651,
+                "lng": 33.47566019999999
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "593aefef5359f266a96c40f5c00815b8e6f97c5f",
+        "name": "Engine",
+        "place_id": "ChIJt5oT3q41KxkRRjL5dtd9b9E",
+        "reference": "CmRaAAAAqwwfUqjl1v1PVtPydinz_pBFBzIuuwkGpJ00lMB-QrEpRBop1EZs84r4ciPJ_eMFbA2w161OBcLd-V9Kq5khcSW7cZemLcQ-IPI5jNDGknf0Vcab9SnKq--tWzxIzrggEhBQxMaRelOUM-GTsGMK2C3PGhTbZgnoMuLEydwJ_uoWnGxSeWCtUg",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "address_components": [
+            {
+                "long_name": "T3",
+                "short_name": "T3",
+                "types": [
+                    "route"
+                ]
+            },
+            {
+                "long_name": "Martindale",
+                "short_name": "Martindale",
+                "types": [
+                    "sublocality_level_1",
+                    "sublocality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Kitwe",
+                "short_name": "Kitwe",
+                "types": [
+                    "locality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Kitwe",
+                "short_name": "Kitwe",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Copperbelt",
+                "short_name": "Copperbelt",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Zambia",
+                "short_name": "ZM",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            }
+        ],
+        "adr_address": "<span class=\"street-address\">T3</span>, <span class=\"locality\">Kitwe</span>, <span class=\"country-name\">Zambia</span>",
+        "formatted_address": "T3, Kitwe, Zambia",
+        "geometry": {
+            "location": {
+                "lat": -12.8220445,
+                "lng": 28.212568199999964
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "dfc4dd4219d7f59286e0d1f781722e1d773cf801",
+        "name": "Total Gas Station",
+        "place_id": "ChIJ-791bq7obBkRlrgk_j6jU0I",
+        "reference": "CnRkAAAAVULwP2jzpf-VUWWHBSnFRXtW3cSPhoO8cAiTPPSbOypxJIHxQqF-8VpLPfqrJGNOwb_11FHSnntSnR21Tmk7-Qk48UHCrtxJg_L_4LeQKBSYXrz_IxXSO-Beh7wJhBt-_f7ENWDUIo6k0pfnZ40SdRIQoCYLcYbamijoTrb81bZv0RoUxjGts7PSPZW0pm4mEKkfnacFkPQ",
+        "scope": "GOOGLE",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "url": "https://maps.google.com/?cid=4779343120517347478",
+        "utc_offset": 120,
+        "vicinity": "T3, Kitwe",
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Kabompo Rd, Livingstone, Zambia",
+        "geometry": {
+            "location": {
+                "lat": -17.8508622,
+                "lng": 25.854579400000034
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "3eb20332c2a6d9445074558b973abde290c188f7",
+        "name": "BP",
+        "place_id": "ChIJP54_rJ_wTxkR2DztA5fE9Nc",
+        "reference": "CmRWAAAAN939Cf8GSLggJ3UQ_BwvFGfqepiUkGmkLUCeH3XKuwEaSzCIOPF5jr4NsxGocjT5inYOZC4vw2A1lRdESpj69VH0BoGqu_9uVdof8KbEFk02SN_P50JAnvdoWjPpykD9EhB6AHZG00WpzYbwbZ2wHbOHGhS3KiLvsrPgbpD2pNMwefG-YfYs1Q",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Mosi-Oa-Tunya, Livingstone, Zambia",
+        "geometry": {
+            "location": {
+                "lat": -17.8506738,
+                "lng": 25.85530110000002
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "5dd37fae9a01c6b686208168461220ffa8f86d53",
+        "name": "Total Petrol Station",
+        "place_id": "ChIJM1AWAZ_wTxkRNG2dKpjuS0Y",
+        "reference": "CnRnAAAAF18TaK1zjQPvybDohvUUY6kC913Bf9-q2I3WYwmcEhwktpp8-rPdAvS9DiF3Lk4nrzeuxrAvkeUWvrKWkezjIuvytGYZ-X38M7CRGeCeYsCaIkvaCXBJdy0LG6UTOhgsZxNhwhA2eccqNCtdjzK6_xIQAjdeqKTqg2TI6aZVxYHW5BoUKfFxjC64OURYJH7s0VezkZxJ520",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Mosi-Oa-Tunya, Livingstone, Zambia",
+        "geometry": {
+            "location": {
+                "lat": -17.8808218,
+                "lng": 25.8562948
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "67b2bbcd78ed4d3e43813b16a8c83e5b7fe39a3b",
+        "name": "Petrol Station",
+        "place_id": "ChIJA8BH33nwTxkRX91Jkf7qKaA",
+        "reference": "CnRiAAAADDT602aRwEjFowFmsAtFm-xqBHd9XsDB_U1pf1_HoWUArUvW4m1SKGrm8q_d-C7XOXgsLOkC0G-5QcLeDJooi70vLVkv6ddxKmkqf36JczbWtMGOOdV_qSADSY6GEMDHKcYCW7JPrrHdpIG-xlBkGRIQQwRTYh7Xi1sFyFpglXHwYBoUn0nJLkccUNEGlF9Qn7RJvCrOzeA",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Mwela St, Livingstone, Zambia",
+        "geometry": {
+            "location": {
+                "lat": -17.8442035,
+                "lng": 25.86070289999998
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "e4f91a7b8ecdc8d4c15f088900f7c675a86388fe",
+        "name": "Caltex",
+        "place_id": "ChIJN18EpaPwTxkR4BqVBfKmCrg",
+        "reference": "CmRaAAAAnkQv2R0Z_FD4d04aAU5NZfUVeinsPUrNJhf9AnU9EnbPT0XQTH36KOV3sTZuiMMcDNrFVQIHIP_sv2K9IUOtdewqqcVIKuyebgM536IaxVrIyBucxKl5SMEcbFIAzs7vEhBlwD6mhGcBarl7XRJv_20TGhQ3xc9lDUu9YhBeteQu0HJ-t8gMQg",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "A8, Victoria Falls, Zimbabwe",
+        "geometry": {
+            "location": {
+                "lat": -17.9273305,
+                "lng": 25.84127669999998
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "696fab4e3f38b2385636fafd1e188be45cfcef87",
+        "name": "Total Petrol Station",
+        "place_id": "ChIJ-11TpFrlTxkR1wuezkxbZsY",
+        "reference": "CnRoAAAAXiWyXpZmsHUkuuLKnyEymplQybO__cXqSpWvSdCqWXXSRZ1EK2bJDVRRXpwSF9v2VO2Do4ocgBNASg13O8y4dsN6qUo3KMdLn6fahvUdp7aFBimq4kwlWiJtovi6UdUdPtm-ws46WiTDlsF8PAcuEBIQNqRti5Qu4wOrxVBvNcPtcBoUqfpPZW-qkGoiDh2R_zdSnfE32Is",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "address_components": [
+            {
+                "long_name": "Sam Nujome Avenue",
+                "short_name": "Sam Nujome Ave",
+                "types": [
+                    "route"
+                ]
+            },
+            {
+                "long_name": "Swakopmund",
+                "short_name": "Swakopmund",
+                "types": [
+                    "locality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Erongo",
+                "short_name": "Erongo",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Namibia",
+                "short_name": "NA",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            }
+        ],
+        "adr_address": "<span class=\"street-address\">Sam Nujome Ave</span>, <span class=\"locality\">Swakopmund</span>, <span class=\"country-name\">Namibia</span>",
+        "formatted_address": "Sam Nujome Ave, Swakopmund, Namibia",
+        "geometry": {
+            "location": {
+                "lat": -22.678262,
+                "lng": 14.528505999999993
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "8e70b980019c71ba3d7cf10591c3581638b017ed",
+        "name": "Gas Station",
+        "place_id": "ChIJY3QNQ_BYdhwRqOq9RKAVx80",
+        "reference": "CmRfAAAAurqxYm9n4OHk7lcxX0NTNM2fH0Aop7SZM0rcLI91h37z8XFYiZT8YTCPtvWcDZ4msZu8whXYNZx4aylJwfkADsqntQr2TohzYXfnCMp7G6_dd6RjVGP5ZBE3VBfFgFSOEhAuOAjhyHJfBlzHI_x1pvHYGhQbN5Wme9nWOaB0PX85Yv2U8HycFA",
+        "scope": "GOOGLE",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "url": "https://maps.google.com/?cid=14827844076232895144",
+        "utc_offset": 120,
+        "vicinity": "Sam Nujome Avenue, Swakopmund",
+        "html_attributions": []
+    },
+    {
+        "address_components": [
+            {
+                "long_name": "D826",
+                "short_name": "D826",
+                "types": [
+                    "route"
+                ]
+            },
+            {
+                "long_name": "Hardap",
+                "short_name": "Hardap",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Namibia",
+                "short_name": "NA",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            }
+        ],
+        "adr_address": "<span class=\"street-address\">D826</span>, <span class=\"country-name\">Namibia</span>",
+        "formatted_address": "D826, Namibia",
+        "geometry": {
+            "location": {
+                "lat": -25.3824388,
+                "lng": 16.424166300000024
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "56676dec9eca351440892c40a0f8f66f64d37a8c",
+        "name": "Betta Campsite Gas Station",
+        "photos": [
+            {
+                "height": 1536,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107532499466274164627/photos\">Dangerous Davies</a>"
+                ],
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJnaR6X7EubRwR09d0hRJtJZM",
+        "reference": "CnRuAAAAHc49zSvO7K4_MouDwxh8ks1yMX0d1aUL5usxixFOTcuCdvggg7Vhg2nWIDSKkPQOA1dtrVkj-5GKSBL499ISsK8yFFDocu7JBYvlTpBfb0pYX3iUapkfDeO8q4Fpj9AZaBIZPUdRuVtJbbmqQdzWExIQ1jomFbkbPpt61IHJueUkwBoU1-j_d4GaPWDecY2GZnn1j1BXMxY",
+        "reviews": [
+            {
+                "aspects": [
+                    {
+                        "rating": 1,
+                        "type": "overall"
+                    }
+                ],
+                "author_name": "Gielie Lambrechts",
+                "author_url": "https://plus.google.com/100770285406177327080",
+                "language": "en",
+                "rating": 3,
+                "text": "",
+                "time": 1453067125
+            }
+        ],
+        "scope": "GOOGLE",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "url": "https://maps.google.com/?cid=10603000824029566931",
+        "user_ratings_total": 1,
+        "utc_offset": 120,
+        "vicinity": "D826",
+        "html_attributions": []
+    },
+    {
+        "address_components": [
+            {
+                "long_name": "D3405",
+                "short_name": "D3405",
+                "types": [
+                    "route"
+                ]
+            },
+            {
+                "long_name": "Nkurenkuru",
+                "short_name": "Nkurenkuru",
+                "types": [
+                    "locality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Kavango",
+                "short_name": "Kavango",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Namibia",
+                "short_name": "NA",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            }
+        ],
+        "adr_address": "<span class=\"street-address\">D3405</span>, <span class=\"locality\">Nkurenkuru</span>, <span class=\"country-name\">Namibia</span>",
+        "formatted_address": "D3405, Nkurenkuru, Namibia",
+        "geometry": {
+            "location": {
+                "lat": -17.6263334,
+                "lng": 18.612062899999955
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "23e7d140721a1640c288dc5e5893eee1aa5b9663",
+        "name": "Nkurenkuru Gas Station",
+        "photos": [
+            {
+                "height": 600,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108048277240460234164/photos\">Peter Ndara</a>"
+                ],
+                "width": 800
+            }
+        ],
+        "place_id": "ChIJ_bneVFfv7hsRyrOcZBvqz4U",
+        "reference": "CnRqAAAAiSKQI6Uqxdgp20hqhB4VMiQb9p5dnjaQ9gDK5Oi60qC_dBnGCgP5Iv5oZFovxYBHW8cWwt5tneFzPR9kNxNB5Kpnog4-iElBH6BvLoLuNvTd6Fq4Iwe3ZNwS92fnAhYLtxKHRFAFSlRBFsQMibw8thIQ63El-V1tac3rBADdGsnYIhoUmHSuMkGXKeoRlMWglgZ0a4S0iUA",
+        "scope": "GOOGLE",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "url": "https://maps.google.com/?cid=9642182730596529098",
+        "utc_offset": 60,
+        "vicinity": "D3405, Nkurenkuru",
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "26 Voortrekker St, Springbok, 8240, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -29.6697152,
+                "lng": 17.882992999999942
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "e2f0ff08eaef05382aa5a5a865c5f3647ccc0511",
+        "name": "Keurstop Dienstasie",
+        "place_id": "ChIJ39febpiCORwRIVpCi9OZ7Mo",
+        "reference": "CnRnAAAA452cXC37EOlvtTbq3bEqDZpzaV44N99LS06H2B4TQIlIie5lOQPBdT7AoRtc393D95UqHmBj6VPMajdQ0cUPHk1hgikboUX8ueF-ZmnzoLuzeWMVixK7vVv12R9WHx167DQKU6_G9E0AYSU9tuYG3hIQlw-LKt7o1NHeTly_h7GzixoUymI4tP83MMgvitgBa6qAOo5gBpE",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "95 Voortrekker St, Springbok, 8240, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -29.664302,
+                "lng": 17.884485199999972
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "7428bd58435ec4de73e02afd522637cbf157563a",
+        "name": "Shell - Aj Agenbag Vulstasie",
+        "place_id": "ChIJ01ErF5-CORwRAQvI-D-Sp94",
+        "reference": "CnRwAAAAQ6XRfbGPU-HlYmR3GWdB1puauFDgeQMHlvvIcTptBDRec9Mh1YSGyYBT5nVr3bLT8MxnD3B2vJHP3pS1Tn0crlbNiLRhtDCAK5Olcnuy60Iyp-PpTb2cTwGX5m4JdEEAQoZWGAEWJu4DOLvZOEE7mhIQODKAvkzapkfHYquU3cBuQRoUAkKwiJqngulD06c7HRdX04vUfbg",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "3 Voortrekker St, Springbok, 8240, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -29.6624654,
+                "lng": 17.89182370000003
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "a9113856b5787038168483d37eb86114fb54862f",
+        "name": "Nissan Trek",
+        "place_id": "ChIJ01ErF5-CORwRm-bZ3doTkkM",
+        "reference": "CmReAAAA5XdYsrkwIzLQoQygYQFJvDp9LdWoXCSLUoNuZ07CyuQAIKZrPErd8828mbg7FwTtSXYBM478DDhbIhkJD19nuoQA32EUR3NhL8KJVALh8GBuxDD0dfheEuSTZAHFGsCEEhBbbji464BwqxFgOCZY9oT6GhTJH3CqIuT84jhnl4ZfuvQC6W4Aew",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Voortrekker Street, Okiep, Northern Cape Province, South Africa 8270, Northern Cape Province, 8270, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -29.59909800000001,
+                "lng": 17.883118999999965
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "79b475cbad0d264918e839c8e8b1eae786e6e7cd",
+        "name": "OKiep Motors",
+        "place_id": "ChIJ4bWes7h5ORwRuFyzeosES6g",
+        "reference": "CmRgAAAAlTgL-MVAoIFg2UzulTukB3JaMDiTvLSjjNRuGg3wO9RVQegwRhW5SHcVxPVdlTzF8pi0ScnmKqBMFJndInU-6lXDIBoxWt3HbKvUZso90_2iepqGZcJ0DYT_1Tw78CI1EhDlt_l69iUaKkzUbqrJqjriGhQI2BKA2B5HhKu-kRwB_XGEwCbsOg",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "D826, Namibia",
+        "geometry": {
+            "location": {
+                "lat": -25.3824388,
+                "lng": 16.424166300000024
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "56676dec9eca351440892c40a0f8f66f64d37a8c",
+        "name": "Betta Campsite Gas Station",
+        "photos": [
+            {
+                "height": 1536,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107532499466274164627/photos\">Dangerous Davies</a>"
+                ],
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJnaR6X7EubRwR09d0hRJtJZM",
+        "reference": "CnRuAAAAFsnRV3scpnONY1mKy8liL86dnZuQkCD0Ijb77kmn2XKr_WtnPCq1VgDVBQ6TeoUVF3XM1c6S6lM1hf-tYevMMqI4ed1wT_-8aVnLqU6kqsXqS4vatWq3N83mJfhs7a4A_lXh9aNkM0XAn_4AEUpazhIQj3Vq_-5RXoK_2ZyDdWmzAhoUGCxx7NvX56X0vlBa3AF8pIWHUd4",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Solitaire, Namibia",
+        "geometry": {
+            "location": {
+                "lat": -23.8937198,
+                "lng": 16.005450300000007
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "e5914b91ba0f4749b76f5be2180b527975b2774c",
+        "name": "Petrol/Diesel",
+        "place_id": "ChIJ2aEbAfIacxwRVPe5kyvdls8",
+        "reference": "CnRhAAAA8dSCel8uQSyyDk3C7Csbpr7tI5HsX6ziCcgdM0tlwnnUMU2fyEqF8c7Os4MGfzVm1d7CX7jJ2RyaPIYm6ph9VbjUOy9k4pM5BkohYdtLjMa1QGSIUSBDFgxxPY6YkmMK6F1dMamkXkwiDMDsHYRObBIQ4u0uSQL9Yvu18sfszbVbohoUKGDnxl8MfKO-jXgyI3ceqYUOfaY",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Strampriet, Namibia",
+        "geometry": {
+            "location": {
+                "lat": -24.3448947,
+                "lng": 18.406463400000007
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "77f6451f23b33708b8a0c111b521e94a1d78a0a2",
+        "name": "Petrol/Diesel",
+        "photos": [
+            {
+                "height": 360,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109953535956233372228/photos\">Kristine Windstaan</a>"
+                ],
+                "width": 480
+            }
+        ],
+        "place_id": "ChIJxZKbARUYDhwRVFfOYOTaHKw",
+        "reference": "CnRhAAAAJBFw7n2-kvYLFuAl7f44NisvYEsIsXJ5ZfNgoSCK4uGCVNb-jh4Y5YW0MaY2J-nVobVkpzErVPl_5rVOd8xGi7B_pt76zKo8XbcN-JjbIzWd3T3PD6e89iHYnkZ3V6AZtARzDoWdup8rwvUYFozRcxIQeKADhQTnnYpP0-Jk3nQFCxoUdx1nopJ1KVTNNfYA0MKN4dBT4t8",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Gochas, Namibia",
+        "geometry": {
+            "location": {
+                "lat": -24.8459613,
+                "lng": 18.80687690000002
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "8597d227d8756681ce38738dae1b80dedcd2a683",
+        "name": "Petrol/Diesel",
+        "place_id": "ChIJJ_EVtcpKEBwR5unOrcKjooE",
+        "reference": "CnRhAAAAmPziTTKZyguQR6A-EEacXu_3ibELNVqxgEGFyg82U73Z5Djhmjc4wcsI5Km9WRrhGWlJ0aFIeRTztkVLB_VzZpR0pf-10Qz_hl9PVePbtk4CV4yCzzh65JvmtDuxxxhksCwT03WW3lmPXJ0u8XztbRIQ2X05gxcrzCV6s9hBoBlNyxoUwcsMtRKTvL7OWUmJXOFx4KX-Dww",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Marie Brandt Street, Mariental, Namibia",
+        "geometry": {
+            "location": {
+                "lat": -24.6300656,
+                "lng": 17.959064200000057
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "f02a1c6b2c60e91739a34f03dae2bc5785341032",
+        "name": "Hoofstraat Motors",
+        "place_id": "ChIJVToI2TUBEhwRwIOwLbH4Fes",
+        "reference": "CnRlAAAAQOPGeolxUjRYLUOXQ3kfS2QyQyAqUUmotU3Gv5jc0Gpwzz94LcQ5QnpcmFUHcRMVhtrUNHQFzOABVQcmt3FI6Z8RMQ9-l3D8HQRgJ387PJ4XAjueArraNJsKVQYzu9R2Yc41EI3L0HFD4Dp8Jn8NYBIQNGSog94a1yDZqQ20jlQ3choUQ-gUQWvB2jLhZjBwd0UJboN-5s4",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Marie Brandt Street, Mariental, Namibia",
+        "geometry": {
+            "location": {
+                "lat": -24.6219124,
+                "lng": 17.960416899999927
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "75804e3ae6da13c0ab89fd9f2c102186bd13a616",
+        "name": "Puma",
+        "place_id": "ChIJOSqhlDEBEhwRyAjv_q7DxBQ",
+        "reference": "CmRXAAAAyeY62vMaJLl-5DxkqpH32Aj3M7DVeWf5cmoENRcMNNOEHAiBZupALTNH5ZS3CGLNA1bz-C9YQN8oSJKwFlIaUV-6Kwq9jjk97V56Im6xOYdcfR6JPOyeiXSn35Sjkkj5EhCIMSrHVHJ27SJ8lSWe6CtiGhRVeTWQAXLkOAsSCr7k9GLy0vZVNg",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Southern Industrial Area, Windhoek, Namibia",
+        "geometry": {
+            "location": {
+                "lat": -22.5905365,
+                "lng": 17.080044199999975
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "b29faea4f3c5a660aa79175291e6569d133c2cd5",
+        "name": "Shell Gas Station",
+        "place_id": "ChIJIzDhriEbCxwRGLK7SDAY39U",
+        "reference": "CnRlAAAAjhTWaDCC7D0u9e8qGZmjUhmXB0UNqAj4oZ-dnpEr8lYFORouAUpRSgreqh5x9N8Y0QSS_RUXHyD1LLZALMG35h3-lJ1QUs7X38elEUWnL_ocZANArooiDYxJfaj5bNYmsTGdbDsTGzcm3-pEQvixoRIQGDpqiccBq5H2Xk0IizjqEBoUWmC6RU69qamxIA781tSOPm2B6Cw",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Swartz St , Windhoek, Central Namibia, Namibia, Namibia",
+        "geometry": {
+            "location": {
+                "lat": -22.54771999999999,
+                "lng": 17.071919999999977
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "ca27c68f7549a1c1cbaaa7580f7c45294166c78d",
+        "name": "Total Fuel (Windhoek)",
+        "place_id": "ChIJiUEXCZ4cCxwR_5adcrxPSHA",
+        "reference": "CnRoAAAAcCNbvAaL0yk4oQI-YybxUmj-u09bdhUhPeoDLsafCT_mGsqOP6cqGEHsFwzzbSlWoJWnPXGClyeQLADLm-cCpDU7aQeKiFoLaR5pVBZDYjHVT9dV5wlXa2tpzrU-APcSXvBzsq41QsP0oVpUuRuMnhIQTpFC0diAj-fl52nDMlZmuBoU8uegGjPG8rnA7KU_yj9RPjNqz0g",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Suiderhof, Windhoek, Namibia",
+        "geometry": {
+            "location": {
+                "lat": -22.603953,
+                "lng": 17.09945259999995
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "8a043e7cd0b412e7784f1906eea3108ba2fac99f",
+        "name": "Engen",
+        "place_id": "ChIJGyRDZs0aCxwRzKF5OwvQbBE",
+        "reference": "CmRYAAAA9-flcL7WXjqfte0r4YTCZgi3RBw6WPtfT8GH7Z5EIQ462dJRtgwDFJdDaV3Qrwn9Af4y7SfizwZqOjgavJPdJmNgUiYDEIPjnLQ_SnoYZ3fJ-bvUVDM6AwuH2yx7nTjkEhA6NglfzUzSZze9Zg8ad5PgGhRJzN8yI2htQ4YtNo4bs18-BozCrw",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Jan Jonker St, Windhoek, Namibia",
+        "geometry": {
+            "location": {
+                "lat": -22.5769615,
+                "lng": 17.08693100000005
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "508490e9c1802a4071cb3c7b08895d9840d4a75f",
+        "name": "Jan Jonker Service Station",
+        "place_id": "ChIJUdHWMDobCxwRDYnUife9w6Q",
+        "reference": "CnRuAAAAcBxSdec0TmFkmUnz8WIRpsDp0nJ3ZLGDgTi05ZKcHvzQl9gV5d3azRdsK5dQUlYJ06RIjjyaT1wZkzPlCBYUSwX8QfWbCweYtWzPK-OeFzf0DwUymOgttFdL5_54OWErrCqITkh8480cq0W-EU6RGBIQ6uSvh_IIglDzntUOkcvnlhoUH1bHYaakVpbzm7K_5N8qhfxOh0k",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Pelican Street, Windhoek, Namibia",
+        "geometry": {
+            "location": {
+                "lat": -22.5735522,
+                "lng": 17.05651039999998
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "5eeedac1dd1884f5d98ad49cc6b2024544c0536b",
+        "name": "Engen Fuel",
+        "place_id": "ChIJcQ1j0wobCxwR7RksCiryKbQ",
+        "reference": "CmReAAAAop6uccx8yuaFy-oMwMdujAb38hJ7dynD8H7Rol9HbymtshsaxIQuVnmkizFY43rb0qMJHVxWSzf8TbTvG8fIIKGInyN6qqyRLbs4Wq3GTeo0eTl5lZ46Qd_EZoifqai3EhDtUeGwSrjWWRgMCD6cj1hTGhRDtPsldAQCT8gYtp393T7pa60aww",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Monte Christo Road, Windhoek, Namibia",
+        "geometry": {
+            "location": {
+                "lat": -22.5123191,
+                "lng": 17.062625900000057
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "54004e93bf763b9b7142909980126a2f68e68b5c",
+        "name": "Monte Christo Service Station",
+        "place_id": "ChIJl-gCVfocCxwRdUbBxxsDXH4",
+        "reference": "CnRwAAAAhrCHZDaRcK5W80Z-ywE9UhymHhnOTjgVPZ8oodKKJGiKNzoOSfPH3OiiI10ttYPcZ6bRAP29Qa1IuO5adiudrNuEpYeb9zfGkeLprNuDwVJvmtHFSSIR63xYamoVEAmOLKVrh1_yKoAQBvNE8a4E4xIQTfY05z4NGUo3cWtUWWe3rRoUgzrv-HbeWfboNenRaNeadWUn8sY",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Windhoek, Namibia",
+        "geometry": {
+            "location": {
+                "lat": -22.6097843,
+                "lng": 17.070924600000012
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "5c7dc1567c6e5e5d904efc978eca4d4e85fb7a12",
+        "name": "Pertrol Pump",
+        "place_id": "ChIJb1qn0O4aCxwR7VAKgtlb2Ps",
+        "reference": "CmRgAAAADumxLa1SAvHCn8WTD0J2gmtZdFggeq_cfZOeVWTZUU1G6wRiukKgXiFnge0byD5C0v5Siw6PamUOQj7i2hSUW-V_72UFT7XPAFw4jCHqWav9KnMexGSE4zB1a-6if9cCEhDNcQQGNZsZL_N9hYmslBlYGhRPLItR63oNBzbkIYhdgxqEUeBhqQ",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Windhoek, Namibia",
+        "geometry": {
+            "location": {
+                "lat": -22.5921981,
+                "lng": 17.06227990000002
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "d62903648a62f1bfe8f22edc0b1ec55aa46337e0",
+        "name": "Petrol Pump",
+        "place_id": "ChIJZ22ZpQMbCxwRtWdguVkEHz0",
+        "reference": "CmReAAAAnrOHbs_Z0zhRJQ0VTV9E1ybTnw0Dj9vt_JkgnLW6z82hHQRpXP149mKWnyoFD5uIFf2E4F0pevNS6I0DNB88gug_kPOuKTdM70KbACYvYJs4WWEcLWEGQQS7oUNtv51uEhDMjBzWXhkqX4fCqTmkxoKiGhSUrPKVpP6dfkLdGNNS8ZgA2ZdL-w",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Pelican Street, Windhoek, Namibia",
+        "geometry": {
+            "location": {
+                "lat": -22.5734383,
+                "lng": 17.05747599999995
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "9a4e1a6028bdaeaabe597ed21bd6ff3e722f8688",
+        "name": "Hochland Service Station",
+        "place_id": "ChIJee0bLQsbCxwRX73zFNQQCV8",
+        "reference": "CnRrAAAA9dBe9lcYCkoA8CiJnneZ4m7coCIYe9k1_XQNuiQNfUaEPBl8-UfDxo7sb_G7UVC8Stf2MDHI71u7YMbbfDIFxcb7UTmtTeZvq45U554L9HgNdkjZs9gr4TDqSZFZZFpH7euSWrI578fZknw_Cn45rxIQDtnFqD6mIQkyoQ6HDsjgZBoUUwXyCOnmEjTRnAJhs85ZoDtHWA4",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Windhoek, Namibia",
+        "geometry": {
+            "location": {
+                "lat": -22.5218088,
+                "lng": 17.03680159999999
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "f9fcb1fddd588be40e41f9ae8922a4a83341a593",
+        "name": "Oshakati Service Station",
+        "place_id": "ChIJ31KBJEQcCxwR1jQNkk4lZWk",
+        "reference": "CnRrAAAAWREn4qMiMFkiDbkjBnSBk-QFf5zv8rQMqtcp95vAmRxvV8jKl8sj60clAUbrWTBCxISgF52EJQYPRZeLQC_7in8JKoV_j1lBi93xIgcATK-2KlQA_HUTzeSI2W9UNXNrM0f41rhAwn_d1JPoaAkGbRIQ-XCA_XcbDx35DvjdSOaLaxoUHYr0p1IIaGUUHEg9e3ctFItQS9o",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Ndemufayo Ave, Windhoek, Namibia",
+        "geometry": {
+            "location": {
+                "lat": -22.5701289,
+                "lng": 17.081839700000046
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "04d9fdb042275d78ff5a997012dd06f61494e8f7",
+        "name": "Wicca Service Station",
+        "place_id": "ChIJq0lzmUAbCxwReNAmxXYGqCk",
+        "reference": "CnRoAAAASTl0SdNPQIRsOUGGdT530Q0DzQ3g5MBgzoKzUb-9aBylCC0P95BSE14QB5MrAEktg92Xj-nG8gNG0-LOrkEC-OV_nyd4F3K06_FsraeUfq5TMtOTYkc-ox6XvmWaX-FVuBjhtMrmKJgeVsT410nsiRIQPpzhgiyO6biFGDXV1f5l6RoUA-QCdzl9ZQr18ryd61LRXi2H0rs",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Edison Street, Windhoek, Namibia",
+        "geometry": {
+            "location": {
+                "lat": -22.5830278,
+                "lng": 17.080221199999983
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "46d9acc1e6cc7e948d9fff715538801b82e3be45",
+        "name": "Subway Service Station",
+        "place_id": "ChIJcSxB1yIbCxwRdjEIg9pTUro",
+        "reference": "CnRqAAAABt9TdD7PhOpzn-HNiwDVtM7GVLYWPlGHxzMUHiQFDpZ8eTiukYswEEmxj9LVPgikA-zWf-sZZlAsgo7uENcfy0JNP3E-Y56YIYyKxTBulJeyB3YWAK0zGwmlRyhiFv5htM9aydpF2gTZGV9TkbW_wBIQLnGHydwuykLR48O5hM1DoBoU5cFWNEirI28fKpJl2173ui084rU",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Jason Hamutenya Ndadi St, Windhoek, Namibia",
+        "geometry": {
+            "location": {
+                "lat": -22.6038063,
+                "lng": 17.09936199999993
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "a3eba742ec26c5c56f3229e630c834908f960a39",
+        "name": "Engen",
+        "place_id": "ChIJy8mJZs0aCxwR3N9hae2c124",
+        "reference": "CmRYAAAAczLL64opIyuF7klxCjH3ckWBoKvJdbEgu5zWwweLaSUFJOeEhJ2swmR0myHfJDVLqUsNJOtW7OfIWwzcBinxpTPbH-PO-WS0prKTj1ee8utVWlZrUzHz3QGf0vp5ZcXcEhAhW-i1l-_dHmRqyFBYdfgkGhRLbpFnyQDe7SmCge5axOc72l6TLQ",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Independence Ave, Windhoek, Namibia",
+        "geometry": {
+            "location": {
+                "lat": -22.5565601,
+                "lng": 17.083610399999998
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+        "id": "d9c027dea67e83328930cbefad5ac8f8f76069bc",
+        "name": "Eureka Service Station",
+        "place_id": "ChIJVdisfVsbCxwRhIiydrc4HjE",
+        "reference": "CnRpAAAA-DNOib7bnMbmg0tpzT-50EIte6JMU2JkS1BakZDGyC_g4jVCZeoTXmKYM_4PTMJ0_MaLea1iUca4_GfJRgvkbS79SYMX-kl80QBybDGDXKpiWTwVdgjMHTM1MB0GflxQFC6ecGYzJzz3yakc8U1qYBIQvYpcHFw5_jW0E9iPYMxMqxoUiAnCxf2jMRcqevOPewnfmRwuFp0",
+        "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Chembe, Malawi",
+        "geometry": {
+            "location": {
+                "lat": -14.0240867,
+                "lng": 34.84100460000002
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+        "id": "6176a42c6529fb70a65ba96f2b55852dfe99da5f",
+        "name": "Fat Monkeys Lodge",
+        "photos": [
+            {
+                "height": 960,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102332605759520792751/photos\">Tom De Greve</a>"
+                ],
+                "width": 720
+            }
+        ],
+        "place_id": "ChIJq6Cdm0eV3xgRwEcZ1L-_aRY",
+        "rating": 4.8,
+        "reference": "CnRkAAAAk9ItIA-0ArwE3HfL0nYooM8ElqS9KuYCVdzDZL4--gMm-QBag8TxNsPdJtYW2HwakaMPMt4Tp8S8KIrNwuI_q7QwJ4Qzngxp0Cz_9AVoBOAUFkHVcjXKu7tC095jQxYrDtzIHzLIAN5FnoAoB3sVpRIQmcqlj2mkh4y_uABWQUOlRBoUnvE6ldEPpj_8v6mVAonKPxudSVY",
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Cape Maclear, Malawi",
+        "geometry": {
+            "location": {
+                "lat": -14.030822,
+                "lng": 34.83058600000004
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+        "id": "27ae708e7f7b9e1d070a5b43cbde5f6348411d94",
+        "name": "The Funky Cichlid",
+        "photos": [
+            {
+                "height": 720,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106949441461328845672/photos\">The Funky Cichlid</a>"
+                ],
+                "width": 960
+            }
+        ],
+        "place_id": "ChIJhYe_3TyV3xgRW4UUpNSTjSU",
+        "reference": "CnRkAAAA_nakVVenOJjEcWR5V2wBBOa6MYQTCTomCN6nd_LiMUQw5FR_VV5uyHwD_WmB5YS_zak9M7FGg8CQ0n6lO9HlVYx4QNARCs2Q1ZOgQ332mwwK42mWSM9jXmwhcUuI5kLKuunZPTZSLR0aws08aNAY6hIQSiV4n37IJeNEL2RI695pIhoUCi31oyCwl8ChU6ujahEkeaO1UoI",
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    },
+    {
+        "formatted_address": "Kambiri Point, P.O Box 123, Malawi",
+        "geometry": {
+            "location": {
+                "lat": -13.7765881,
+                "lng": 34.61602089999997
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+        "id": "67283cfbbd6d8d6aa415c3c23bc1e7c79a9ab6d0",
+        "name": "Red Zebra Lodge",
+        "place_id": "ChIJqXrNF7IBIBkRuez2CqTVPK4",
+        "reference": "CnRjAAAAbMrjA3AwKo9i4loVxLqng9vFHvR0cYGOQnpd0s5lXGZU7ozheDubJXWcT8cqLCv54SxlKvaHRsdFxPAsJTYBgqfBlWiqxZYaqRnXu5BFDn6gpSxxw8_ZbeNXl9VLJOl4qehpjpgm3sbW0CwEWSiQFBIQZYzXGFnY1ScNzthX-Edn2BoUHXQS0fNQ1rhGGFJeb-mwvNae5Nw",
+        "types": [
+            "travel_agency",
+            "point_of_interest",
+            "establishment"
+        ],
+        "html_attributions": []
+    }
+]

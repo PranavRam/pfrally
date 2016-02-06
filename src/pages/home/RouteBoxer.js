@@ -51,7 +51,7 @@ class RouteBoxer extends Component {
 	    }
 	    drawBoxes(boxes);
 
-	    async.parallel(callbacks,
+	    /*async.parallel(callbacks,
 	    // optional callback
 	    function(err, results){
 	      
@@ -60,10 +60,10 @@ class RouteBoxer extends Component {
 	      }))
 	        // the results array will equal ['one','two'] even though
 	        // the second function had a shorter timeout.
-	    });
+	    });*/
 
 	    function setLocations(locations) {
-	    	console.log(locations, 'gas_stations');
+	    	// console.log(locations, 'gas_stations');
 	    	self.setState({
 	    		locations: locations
 	    	})
